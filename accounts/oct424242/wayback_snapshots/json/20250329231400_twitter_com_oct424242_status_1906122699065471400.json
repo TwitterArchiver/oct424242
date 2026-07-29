@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1906120605029503442",
+    "created_at": "2025-03-29T23:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T00:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906122699065471400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "7639xy_k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906122699065471400",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906122351852614021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7639xy_k 博主自觉在搞人皮扣方面有一定天赋励志毕业就去学穿孔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1906120605029503442",
+        "created_at": "2025-03-29T23:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T00:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906122699065471400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "7639xy_k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906122699065471400",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906122351852614021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7639xy_k 博主自觉在搞人皮扣方面有一定天赋励志毕业就去学穿孔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "1906120605029503442",
+        "created_at": "2025-03-29T23:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T00:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906122351852614021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906122351852614021",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906120605029503442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 美 太神了老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 71,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 499
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "没有个人立场全是私人恩怨｜任何成分互fo互动欢迎｜@TPR_luv是本人肉身控制者【匿名留言处：https://t.co/TYFMy71gVS】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "TPR_luv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye1965",
+                "end": 71,
+                "expanded_url": "https://ngl.link/xiye1965",
+                "start": 48,
+                "url": "https://t.co/TYFMy71gVS"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "Anywhere",
+        "name": "曦夜少吃两口",
+        "pinned_tweet_id": "1898733868116516968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903603452896555008/Wug8ODzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 719,
+          "like_count": 36468,
+          "listed_count": 6,
+          "media_count": 101,
+          "tweet_count": 3626
+        },
+        "username": "7639xy_k",
+        "verified": false
+      }
+    ]
+  }
+}

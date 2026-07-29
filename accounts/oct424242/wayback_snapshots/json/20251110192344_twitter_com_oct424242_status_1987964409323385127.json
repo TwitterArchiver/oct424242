@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1987964409323385127",
+    "created_at": "2025-11-10T19:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T20:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987964409323385127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987964409323385127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解离，很平静的感觉，没有感觉，很舒服。无法集中注意力无法思考，梦到哪句说哪句。大脑在天上飞，如果现在死掉的话好极了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1987964409323385127",
+        "created_at": "2025-11-10T19:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T20:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987964409323385127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987964409323385127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离，很平静的感觉，没有感觉，很舒服。无法集中注意力无法思考，梦到哪句说哪句。大脑在天上飞，如果现在死掉的话好极了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 107,
+          "like_count": 1098,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 759
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

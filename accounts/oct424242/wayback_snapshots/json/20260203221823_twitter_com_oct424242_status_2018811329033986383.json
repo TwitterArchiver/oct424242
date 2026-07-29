@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2018811329033986383",
+    "created_at": "2026-02-03T22:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T23:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018811329033986383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheese_ghostfo…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/cheese_ghostfox/status/2018656224829645179",
+          "start": 10,
+          "url": "https://t.co/dPtVSMNzmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018811329033986383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018656224829645179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想玩这个……！ https://t.co/dPtVSMNzmV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2018656221075750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAO1I0TaQAA_LGZ.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2018811329033986383",
+        "created_at": "2026-02-03T22:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T23:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018811329033986383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2018656224829645179",
+              "start": 10,
+              "url": "https://t.co/dPtVSMNzmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018811329033986383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018656224829645179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩这个……！ https://t.co/dPtVSMNzmV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018656221075750912"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2018656224829645179",
+        "created_at": "2026-02-03T12:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018656224829645179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvyHm7oxTU",
+              "end": 41,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2018656224829645179/photo/1",
+              "media_key": "3_2018656221075750912",
+              "start": 18,
+              "url": "https://t.co/hvyHm7oxTU"
+            },
+            {
+              "display_url": "x.com/BeetiIsDog/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/BeetiIsDog/status/2018335694616482144",
+              "start": 42,
+              "url": "https://t.co/m5XmYu9Nkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018656224829645179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018335694616482144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请…给出您认为最符合号主的答案喵! https://t.co/hvyHm7oxTU https://t.co/m5XmYu9Nkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 166,
+          "like_count": 1626,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1011
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1225,
+          "like_count": 12704,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

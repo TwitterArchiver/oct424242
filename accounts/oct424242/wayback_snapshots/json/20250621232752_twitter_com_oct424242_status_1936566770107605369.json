@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1936508123994362125",
+    "created_at": "2025-06-21T23:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T00:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936566770107605369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935420089186336768",
+          "start": 0,
+          "username": "ASplendour15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936566770107605369",
+    "in_reply_to_user_id": "1935420089186336768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936508123994362125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ASplendour15 全世界都在下雨…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1936508114586509312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_b3sKXIAAW8gl.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1936508123994362125",
+        "created_at": "2025-06-21T23:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T00:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936566770107605369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936566770107605369",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936508123994362125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 全世界都在下雨…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936508114586509312"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1936508123994362125",
+        "created_at": "2025-06-21T19:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T20:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936508123994362125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKZQkyiAUJ",
+              "end": 95,
+              "expanded_url": "https://x.com/ASplendour15/status/1936508123994362125/photo/1",
+              "media_key": "3_1936508114586509312",
+              "start": 72,
+              "url": "https://t.co/XKZQkyiAUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936508123994362125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃了个有点不该吃的东西，属于手比脑子快了。。不过我决定一向挺随意的，这次是看到外面刮大风感觉要下雨了所以开心\n不过半片的选择是正确的（）够用了 https://t.co/XKZQkyiAUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 71,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 597
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "“你可以遮住双眼，随便你。遮也无用。” 互关寻回",
+        "id": "1935420089186336768",
+        "name": "瞳中之扉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426320374079488/DwiKKkPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 41,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

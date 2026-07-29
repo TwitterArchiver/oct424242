@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025359015308365824"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "conversation_id": "2025359018726744306",
+    "created_at": "2026-02-21T23:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T00:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025359018726744306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RUEpmsJiQU",
+          "end": 43,
+          "expanded_url": "https://x.com/oct424242/status/2025359018726744306/photo/1",
+          "media_key": "3_2025359015308365824",
+          "start": 20,
+          "url": "https://t.co/RUEpmsJiQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025359018726744306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。。。？？？？真是让人对东亚研究很失望 https://t.co/RUEpmsJiQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1669,
+        "media_key": "3_2025359015308365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBuFSyoXEAADwWt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025359015308365824"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "conversation_id": "2025359018726744306",
+        "created_at": "2026-02-21T23:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025359018726744306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUEpmsJiQU",
+              "end": 43,
+              "expanded_url": "https://x.com/oct424242/status/2025359018726744306/photo/1",
+              "media_key": "3_2025359015308365824",
+              "start": 20,
+              "url": "https://t.co/RUEpmsJiQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025359018726744306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。？？？？真是让人对东亚研究很失望 https://t.co/RUEpmsJiQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 173,
+          "like_count": 1709,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1089
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

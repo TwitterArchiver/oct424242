@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2037592748262646052",
+    "created_at": "2026-03-28T19:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T20:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037973261355540553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837496275656495107",
+          "start": 0,
+          "username": "Evigt_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037973261355540553",
+    "in_reply_to_user_id": "1837496275656495107",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037592748262646052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evigt_404 🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037592736506019841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEb7zFhbgAEjZhY.jpg",
+        "width": 1327
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2037592748262646052",
+        "created_at": "2026-03-28T19:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037973261355540553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837496275656495107",
+              "start": 0,
+              "username": "Evigt_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037973261355540553",
+        "in_reply_to_user_id": "1837496275656495107",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037592748262646052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evigt_404 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037592736506019841"
+          ]
+        },
+        "author_id": "1837496275656495107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037592748262646052",
+        "created_at": "2026-03-27T18:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037592748262646052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrhR082Sp4",
+              "end": 23,
+              "expanded_url": "https://x.com/Evigt_404/status/2037592748262646052/photo/1",
+              "media_key": "3_2037592736506019841",
+              "start": 0,
+              "url": "https://t.co/SrhR082Sp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037592748262646052",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SrhR082Sp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚",
+        "id": "1761821960978460672",
+        "name": "🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827248633171968/d7BX3Lk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 196,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1205
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: Evigt & Sys_Evi\n苯海拉明受害者联盟",
+        "id": "1837496275656495107",
+        "name": "Evigt404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 199,
+          "like_count": 2681,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1954
+        },
+        "username": "Evigt_404",
+        "verified": false
+      }
+    ]
+  }
+}

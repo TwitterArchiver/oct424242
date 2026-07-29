@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2014324269891670067",
+    "created_at": "2026-01-22T15:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014357419548094910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707194644803751937",
+          "start": 0,
+          "username": "xiaoz010203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014357419548094910",
+    "in_reply_to_user_id": "707194644803751937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014340934776074515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoz010203 😨消耗量很大了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2014324269891670067",
+        "created_at": "2026-01-22T15:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014357419548094910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707194644803751937",
+              "start": 0,
+              "username": "xiaoz010203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014357419548094910",
+        "in_reply_to_user_id": "707194644803751937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014340934776074515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoz010203 😨消耗量很大了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707194644803751937",
+        "conversation_id": "2014324269891670067",
+        "created_at": "2026-01-22T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014340934776074515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014340934776074515",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014324269891670067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 上次吃sns我只记得一口气吃了3片，早上醒来发现空了六个位置……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 149,
+          "like_count": 1434,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 933
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T13:21:57.000Z",
+        "description": "“人的一生要经历太多的生离死别，那些突如其来的离别往往将人伤得措手不及。”｜可以叫我小z｜INFJ｜双鱼｜化学专业 医药研发领域｜在合理的范围内包容一切群体｜抽象、具体、感性、理性   取决于最近的药量｜人生苦短，及时行乐，赢则大乐\nhttps://t.co/Qqw3RNom0z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoz010203",
+                "end": 140,
+                "expanded_url": "https://ngl.link/xiaoz010203",
+                "start": 117,
+                "url": "https://t.co/Qqw3RNom0z"
+              }
+            ]
+          }
+        },
+        "id": "707194644803751937",
+        "name": "Zzzzzzzzzzz",
+        "pinned_tweet_id": "1866747340687806543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392075377099644929/k80-Ta1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 48,
+          "like_count": 3758,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 2047
+        },
+        "username": "xiaoz010203",
+        "verified": false
+      }
+    ]
+  }
+}

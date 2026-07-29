@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2051211439658926292",
+    "created_at": "2026-05-04T08:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051211439658926292"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051211439658926292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感到不安全⋯⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2051211439658926292",
+        "created_at": "2026-05-04T08:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051211439658926292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051211439658926292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感到不安全⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "",
+        "id": "1761821960978460672",
+        "name": "kernarme（结束了被害妄想",
+        "pinned_tweet_id": "2043203155052126598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 221,
+          "like_count": 2094,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1317
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

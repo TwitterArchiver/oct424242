@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1881417018643243153",
+    "created_at": "2025-01-20T19:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T20:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881417018643243153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881417018643243153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回来上学了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1881417018643243153",
+        "created_at": "2025-01-20T19:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T20:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881417018643243153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881417018643243153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回来上学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️伪装成跨男娘的agender|泛浪漫无性恋，恋爱中❤|神经多样性(asd/adhd/抑郁/焦虑/疑似双相混合Ⅱ型？)|物理系cosmology|中文/eng|oc人|哥特|医疗系|欢迎互fo和小窗",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 86,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 350
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

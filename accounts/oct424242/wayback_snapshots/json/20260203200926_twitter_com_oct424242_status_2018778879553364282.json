@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2018778879553364282",
+    "created_at": "2026-02-03T20:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T21:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018778879553364282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1462208415837655043",
+          "start": 3,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018778879553364282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018285177735454960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Prechaska: 很喜欢那种疯狂的爱着什么、每时每刻都在思考它的整个人被完全占据的感觉，不论这个对象是什么。它是那么强烈，强烈到整个世界只剩下它、只有它是重要的，在这种强度面前，只有“爱”才配得上作为它的名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2018778879553364282",
+        "created_at": "2026-02-03T20:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T21:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018778879553364282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1462208415837655043",
+              "start": 3,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018778879553364282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018285177735454960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Prechaska: 很喜欢那种疯狂的爱着什么、每时每刻都在思考它的整个人被完全占据的感觉，不论这个对象是什么。它是那么强烈，强烈到整个世界只剩下它、只有它是重要的，在这种强度面前，只有“爱”才配得上作为它的名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2018285177735454960",
+        "created_at": "2026-02-02T11:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018285177735454960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018285177735454960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢那种疯狂的爱着什么、每时每刻都在思考它的整个人被完全占据的感觉，不论这个对象是什么。它是那么强烈，强烈到整个世界只剩下它、只有它是重要的，在这种强度面前，只有“爱”才配得上作为它的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 165,
+          "like_count": 1619,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1009
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 116,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1290
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

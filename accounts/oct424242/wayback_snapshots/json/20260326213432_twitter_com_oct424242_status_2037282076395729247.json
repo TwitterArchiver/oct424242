@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2037273784281936292",
+    "created_at": "2026-03-26T21:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T22:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037282076395729247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037282076395729247",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037273784281936292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 或许可以试试长袖长裤泳衣？日本中学生那种？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2037273764719738880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXZsfBXwAAWdoP.jpg",
+        "width": 3861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2037273784281936292",
+        "created_at": "2026-03-26T21:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037282076395729247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037282076395729247",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037273784281936292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 或许可以试试长袖长裤泳衣？日本中学生那种？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037273764719738880"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "2037273784281936292",
+        "created_at": "2026-03-26T21:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T22:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037273784281936292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2dInL3gsZ",
+              "end": 131,
+              "expanded_url": "https://x.com/AnIncandescence/status/2037273784281936292/photo/1",
+              "media_key": "3_2037273764719738880",
+              "start": 108,
+              "url": "https://t.co/K2dInL3gsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037273784281936292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算讨厌夏天和高温也无法阻挡四季的脚步啊。小时候会喜欢夏天，因为雪糕？因为可以游泳？\n\n现在雪糕自由了，我不会再被管着。\n游泳的话，我好多好多年没去过了。\n\n大概从身上开始有痛苦的痕迹开始，我不记得我有再穿过泳衣。 https://t.co/K2dInL3gsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚",
+        "id": "1761821960978460672",
+        "name": "🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827248633171968/d7BX3Lk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 197,
+          "like_count": 1878,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1184
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 倒影@TauCeti_10700 计划这个号机的浓度更高一些 | 🚪88/158",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "TauCeti_10700"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/iO6MRJNTYR"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1 //⬇️ 匿名提问箱",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "2024076888923365667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 247,
+          "like_count": 15725,
+          "listed_count": 5,
+          "media_count": 1187,
+          "tweet_count": 6684
+        },
+        "url": "https://t.co/iO6MRJNTYR",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

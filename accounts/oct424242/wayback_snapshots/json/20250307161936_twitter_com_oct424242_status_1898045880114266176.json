@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1898045880114266176",
+    "created_at": "2025-03-07T16:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T17:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898045880114266176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oct424242/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/oct424242/status/1898039577639895333",
+          "start": 47,
+          "url": "https://t.co/kIolQ5Thzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898045880114266176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898039577639895333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也没有什么故事。只是纯粹地喜欢漆黑的一切，并且将漆黑引申成了一种超越颜色的描述状态的词汇 https://t.co/kIolQ5Thzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898039573332348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glcw74ob0AAiDYK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898045880114266176",
+        "created_at": "2025-03-07T16:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T17:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898045880114266176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/oct424242/status/1898039577639895333",
+              "start": 47,
+              "url": "https://t.co/kIolQ5Thzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898045880114266176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898039577639895333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也没有什么故事。只是纯粹地喜欢漆黑的一切，并且将漆黑引申成了一种超越颜色的描述状态的词汇 https://t.co/kIolQ5Thzo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898039573332348928"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898039577639895333",
+        "created_at": "2025-03-07T15:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T16:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898039577639895333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJY1HAs9oo",
+              "end": 45,
+              "expanded_url": "https://x.com/oct424242/status/1898039577639895333/photo/1",
+              "media_key": "3_1898039573332348928",
+              "start": 22,
+              "url": "https://t.co/cJY1HAs9oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898039577639895333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢黑色。如果有选择的话会选择黑色的一切。 https://t.co/cJY1HAs9oo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 60,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 406
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

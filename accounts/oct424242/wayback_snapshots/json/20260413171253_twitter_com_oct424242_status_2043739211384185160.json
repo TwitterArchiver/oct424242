@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2043678411646972047",
+    "created_at": "2026-04-13T17:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043739211384185160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040141274515197952",
+          "start": 0,
+          "username": "siyu2024nian"
+        },
+        {
+          "end": 30,
+          "id": "1620506107306479617",
+          "start": 14,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043739211384185160",
+    "in_reply_to_user_id": "2040141274515197952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043720615333683388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyu2024nian @Cheese_Ghostfox 我这边爬下来了6703条，但我看了一下应该不是全部的？有一些并没有被快照下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2043678411646972047",
+        "created_at": "2026-04-13T17:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043739211384185160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040141274515197952",
+              "start": 0,
+              "username": "siyu2024nian"
+            },
+            {
+              "end": 30,
+              "id": "1620506107306479617",
+              "start": 14,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043739211384185160",
+        "in_reply_to_user_id": "2040141274515197952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043720615333683388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyu2024nian @Cheese_Ghostfox 我这边爬下来了6703条，但我看了一下应该不是全部的？有一些并没有被快照下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040141274515197952",
+        "conversation_id": "2043678411646972047",
+        "created_at": "2026-04-13T15:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043720615333683388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            },
+            {
+              "end": 27,
+              "id": "1620506107306479617",
+              "start": 11,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043720615333683388",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043706143088746663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 @Cheese_Ghostfox 我看见她所有记录有6000条。 可以全部整理下来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚",
+        "id": "1761821960978460672",
+        "name": "🌌",
+        "pinned_tweet_id": "2043203155052126598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827248633171968/d7BX3Lk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 208,
+          "like_count": 2017,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1265
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T18:56:13.000Z",
+        "description": "这个spring很懒。什么都没有写。",
+        "id": "2040141274515197952",
+        "name": "xiaobai",
+        "pinned_tweet_id": "2043454182515208444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041571989543170048/V4kBJYd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 419,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 592
+        },
+        "username": "siyu2024nian",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1463,
+          "like_count": 16514,
+          "listed_count": 4,
+          "media_count": 569,
+          "tweet_count": 5212
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

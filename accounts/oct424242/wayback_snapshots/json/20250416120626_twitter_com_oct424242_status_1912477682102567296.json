@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1912430295577509927",
+    "created_at": "2025-04-16T12:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T13:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912477682102567296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912477682102567296",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912430295577509927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 面基！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912430261767204864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GopRMMpXcAACxSD.jpg",
+        "width": 1911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1912430295577509927",
+        "created_at": "2025-04-16T12:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912477682102567296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912477682102567296",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912430295577509927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 面基！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912430261767204864"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1912430295577509927",
+        "created_at": "2025-04-16T08:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T09:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912430295577509927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIHAd2K7ZX",
+              "end": 23,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1912430295577509927/photo/1",
+              "media_key": "3_1912430261767204864",
+              "start": 0,
+              "url": "https://t.co/TIHAd2K7ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912430295577509927",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TIHAd2K7ZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 72,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 559
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "ADHD商店 ｜｜｜促智店 ｜｜｜X/✈️：客服@paipaipaitang｜｜｜ ⚠️本研究性仅供实验室研究使用，严禁用于人体和动物⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqN78M"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "生物工程从业者，从事逆转衰老、干细胞和基因治疗研发",
+        "name": "☯️🧬無極生命科学及研究化合物实验室供应商",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910622977047072768/b7DaYSTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9021,
+          "following_count": 412,
+          "like_count": 7030,
+          "listed_count": 28,
+          "media_count": 1490,
+          "tweet_count": 11985
+        },
+        "url": "https://t.co/r6ojtqN78M",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

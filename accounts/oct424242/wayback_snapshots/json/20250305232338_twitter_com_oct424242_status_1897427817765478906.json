@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1897425698283020592",
+    "created_at": "2025-03-05T23:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T00:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897427817765478906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812797664347717632",
+          "start": 0,
+          "username": "kurushi_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897427817765478906",
+    "in_reply_to_user_id": "1812797664347717632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897425698283020592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurushi_qwq 发生什么了老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1897425698283020592",
+        "created_at": "2025-03-05T23:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T00:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897427817765478906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812797664347717632",
+              "start": 0,
+              "username": "kurushi_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897427817765478906",
+        "in_reply_to_user_id": "1812797664347717632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897425698283020592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurushi_qwq 发生什么了老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812797664347717632",
+        "conversation_id": "1897425698283020592",
+        "created_at": "2025-03-05T23:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T00:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897425698283020592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897425698283020592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有推友可以安慰安慰我嗎，其實我這幾天不怎麼開心，誒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 96,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 387
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T10:33:49.000Z",
+        "description": "來自香港的血液草莓",
+        "id": "1812797664347717632",
+        "location": "蒼白天國",
+        "name": "usagi",
+        "pinned_tweet_id": "1896911219086516230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861727078774898691/AWUBOMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 243,
+          "like_count": 4237,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 836
+        },
+        "username": "kurushi_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

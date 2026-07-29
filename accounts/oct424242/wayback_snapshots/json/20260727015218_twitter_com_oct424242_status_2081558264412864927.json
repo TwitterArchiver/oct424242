@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081302746138042368"
+      ],
+      "media_source_tweet_id": [
+        "2081302913117569430"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "conversation_id": "2081558264412864927",
+    "created_at": "2026-07-27T01:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081558264412864927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761821960978460672",
+          "start": 3,
+          "username": "oct424242"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/oct65031",
+          "end": 65,
+          "expanded_url": "https://ngl.link/oct65031",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2081299419425845248/pzbte0Pt?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081299419425845248/pzbte0Pt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 42,
+          "status": 200,
+          "title": "@oct: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/oct65031",
+          "url": "https://t.co/WSgkijfo2j"
+        },
+        {
+          "display_url": "pic.x.com/QVud803tB5",
+          "end": 89,
+          "expanded_url": "https://x.com/oct424242/status/2081302913117569430/photo/1",
+          "media_key": "3_2081302746138042368",
+          "start": 66,
+          "url": "https://t.co/QVud803tB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081558264412864927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081302913117569430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oct424242: 想玩這個！\n如果不想再評論區留言的話也可以ngl⋯！\nhttps://t.co/WSgkijfo2j https://t.co/QVud803tB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2081302746138042368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJF0gWaYAAPOOs.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081302746138042368"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "conversation_id": "2081302913117569430",
+        "created_at": "2026-07-26T08:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081302913117569430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/oct65031",
+              "end": 50,
+              "expanded_url": "https://ngl.link/oct65031",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2081299419425845248/pzbte0Pt?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081299419425845248/pzbte0Pt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "@oct: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/oct65031",
+              "url": "https://t.co/WSgkijfo2j"
+            },
+            {
+              "display_url": "pic.x.com/QVud803tB5",
+              "end": 74,
+              "expanded_url": "https://x.com/oct424242/status/2081302913117569430/photo/1",
+              "media_key": "3_2081302746138042368",
+              "start": 51,
+              "url": "https://t.co/QVud803tB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081302913117569430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想玩這個！\n如果不想再評論區留言的話也可以ngl⋯！\nhttps://t.co/WSgkijfo2j https://t.co/QVud803tB5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081302746138042368"
+          ],
+          "media_source_tweet_id": [
+            "2081302913117569430"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "conversation_id": "2081558264412864927",
+        "created_at": "2026-07-27T01:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081558264412864927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761821960978460672",
+              "start": 3,
+              "username": "oct424242"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/oct65031",
+              "end": 65,
+              "expanded_url": "https://ngl.link/oct65031",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2081299419425845248/pzbte0Pt?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081299419425845248/pzbte0Pt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "@oct: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/oct65031",
+              "url": "https://t.co/WSgkijfo2j"
+            },
+            {
+              "display_url": "pic.x.com/QVud803tB5",
+              "end": 89,
+              "expanded_url": "https://x.com/oct424242/status/2081302913117569430/photo/1",
+              "media_key": "3_2081302746138042368",
+              "start": 66,
+              "url": "https://t.co/QVud803tB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081558264412864927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081302913117569430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oct424242: 想玩這個！\n如果不想再評論區留言的話也可以ngl⋯！\nhttps://t.co/WSgkijfo2j https://t.co/QVud803tB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD eng/中文\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 173,
+          "like_count": 2440,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

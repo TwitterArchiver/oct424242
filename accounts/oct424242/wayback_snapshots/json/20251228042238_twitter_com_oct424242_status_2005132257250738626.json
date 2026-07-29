@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2005132257250738626",
+    "created_at": "2025-12-28T04:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T05:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005132257250738626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005132257250738626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很抱歉确实是开始休息了（但是在这个家庭环境里其实也不能完全休息，只能说对一切不适睁一只眼闭一只眼了）但是狂暴地想要攻击所有人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2005132257250738626",
+        "created_at": "2025-12-28T04:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005132257250738626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005132257250738626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉确实是开始休息了（但是在这个家庭环境里其实也不能完全休息，只能说对一切不适睁一只眼闭一只眼了）但是狂暴地想要攻击所有人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 125,
+          "like_count": 1183,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 797
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1886604582937411677",
+    "created_at": "2025-02-04T02:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T03:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886604582937411677"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886604582937411677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是可以说的吗其实我觉得v没有他说的那样救世。like我觉得他说的造福民生更多的是他是一个有理想且善良的科学家--那么这就是一件他可以用他的能力做到的事情，但是更像是顺便能做到的，而不是他的首要目的。（我个人是非常支持奥术的美是源动力的。）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1886604582937411677",
+        "created_at": "2025-02-04T02:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T03:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886604582937411677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886604582937411677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是可以说的吗其实我觉得v没有他说的那样救世。like我觉得他说的造福民生更多的是他是一个有理想且善良的科学家--那么这就是一件他可以用他的能力做到的事情，但是更像是顺便能做到的，而不是他的首要目的。（我个人是非常支持奥术的美是源动力的。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 86,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 367
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2024294125135175921",
+    "created_at": "2026-02-19T01:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024294125135175921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oct424242/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/oct424242/status/2024209640901202364",
+          "start": 23,
+          "url": "https://t.co/1V0RDhHafa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024294125135175921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024209640901202364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好明显的药效只有八个小时……好明显的落差…… https://t.co/1V0RDhHafa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024294125135175921",
+        "created_at": "2026-02-19T01:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024294125135175921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/oct424242/status/2024209640901202364",
+              "start": 23,
+              "url": "https://t.co/1V0RDhHafa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024294125135175921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024209640901202364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好明显的药效只有八个小时……好明显的落差…… https://t.co/1V0RDhHafa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024011821514915996",
+        "created_at": "2026-02-18T19:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T20:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024209640901202364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024209640901202364",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024014116134789277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的感觉完全是多巴胺回路的问题，吃哌甲酯也能感到这种淡淡幸福的感觉，甚至可以安抚那种焦虑感……问题是这是超级缓释剂且18mg……令人感到恐惧的是这种幸福感可能才是所谓健康的常态，但对我来说已经是过激（没有合适的词可以描述）的心情（幸福得让人感到罪恶？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 168,
+          "like_count": 1697,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1078
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2041618166955307499",
+    "created_at": "2026-04-07T22:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041637973616156724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837496275656495107",
+          "start": 0,
+          "username": "Evigt_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041637973616156724",
+    "in_reply_to_user_id": "1837496275656495107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041618166955307499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evigt_404 🫂🫂应该是幻觉…我之前也有过这个情况但是实际上都没有发生过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2041618166955307499",
+        "created_at": "2026-04-07T22:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041637973616156724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837496275656495107",
+              "start": 0,
+              "username": "Evigt_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041637973616156724",
+        "in_reply_to_user_id": "1837496275656495107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041618166955307499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evigt_404 🫂🫂应该是幻觉…我之前也有过这个情况但是实际上都没有发生过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837496275656495107",
+        "conversation_id": "2041618166955307499",
+        "created_at": "2026-04-07T20:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041618166955307499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041618166955307499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友打游戏一直听到爸妈在客厅小声说话打完还听到我又干了什么他们都知道了他们在讨论拿我怎么办我本来想打完画画的听他们一直在聊还去烧水了实在忍不了出来看发现俩人都睡的很香\n然后现在我在厕所像往常一样抽烟然后又听见好像我爸半睡半醒的在说话，然后好像还有水烧开的声音???我操要是都真的咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚",
+        "id": "1761821960978460672",
+        "name": "🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827248633171968/d7BX3Lk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 199,
+          "like_count": 1946,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1235
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: Evigt & Sys_Evi\n苯海拉明受害者联盟",
+        "id": "1837496275656495107",
+        "name": "AaAAaaaaAa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 202,
+          "like_count": 2901,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 2043
+        },
+        "username": "Evigt_404",
+        "verified": false
+      }
+    ]
+  }
+}

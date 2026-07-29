@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1828298935414464592",
+    "created_at": "2024-08-27T05:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T06:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828298935414464592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1786321671282143232",
+          "start": 3,
+          "username": "sodacream_nyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828298935414464592",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827787293438226729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sodacream_nyk: =今井名雪\n06 158/42精神病大学休学会吉他 ftx gd重 he/it\n相关内容在p23顺男打钱再聊！可以私信我要收款码！很好说话别社恐你主动就有故事\n女和跨不用\n欢迎跨/女互fo/加qv，有原相机素颜，短发，可以寄/买假发\ncoc…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1828298935414464592",
+        "created_at": "2024-08-27T05:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828298935414464592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1786321671282143232",
+              "start": 3,
+              "username": "sodacream_nyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828298935414464592",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827787293438226729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sodacream_nyk: =今井名雪\n06 158/42精神病大学休学会吉他 ftx gd重 he/it\n相关内容在p23顺男打钱再聊！可以私信我要收款码！很好说话别社恐你主动就有故事\n女和跨不用\n欢迎跨/女互fo/加qv，有原相机素颜，短发，可以寄/买假发\ncoc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827787250081656832",
+            "3_1827787250182103041",
+            "3_1827787250069073920",
+            "3_1827787250090061824"
+          ]
+        },
+        "author_id": "1786321671282143232",
+        "conversation_id": "1827787293438226729",
+        "created_at": "2024-08-25T19:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T20:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827787293438226729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 159,
+              "start": 154,
+              "tag": "四川线下"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "半绿"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "纯绿"
+            },
+            {
+              "end": 171,
+              "start": 168,
+              "tag": "小狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnssiomydc",
+              "end": 195,
+              "expanded_url": "https://twitter.com/sodacream_nyk/status/1827787293438226729/photo/1",
+              "media_key": "3_1827787250081656832",
+              "start": 172,
+              "url": "https://t.co/mnSSIomyDC"
+            },
+            {
+              "display_url": "pic.x.com/mnssiomydc",
+              "end": 195,
+              "expanded_url": "https://twitter.com/sodacream_nyk/status/1827787293438226729/photo/1",
+              "media_key": "3_1827787250182103041",
+              "start": 172,
+              "url": "https://t.co/mnSSIomyDC"
+            },
+            {
+              "display_url": "pic.x.com/mnssiomydc",
+              "end": 195,
+              "expanded_url": "https://twitter.com/sodacream_nyk/status/1827787293438226729/photo/1",
+              "media_key": "3_1827787250069073920",
+              "start": 172,
+              "url": "https://t.co/mnSSIomyDC"
+            },
+            {
+              "display_url": "pic.x.com/mnssiomydc",
+              "end": 195,
+              "expanded_url": "https://twitter.com/sodacream_nyk/status/1827787293438226729/photo/1",
+              "media_key": "3_1827787250090061824",
+              "start": 172,
+              "url": "https://t.co/mnSSIomyDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827787293438226729",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1950,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "=今井名雪\n06 158/42精神病大学休学会吉他 ftx gd重 he/it\n相关内容在p23顺男打钱再聊！可以私信我要收款码！很好说话别社恐你主动就有故事\n女和跨不用\n欢迎跨/女互fo/加qv，有原相机素颜，短发，可以寄/买假发\ncoc/mcr/模糊/石花/绿洲\n#爸爸活 #妈妈活 #门槛哥 #门槛姐 #四川线下 #半绿 #纯绿 #小狗 https://t.co/mnSSIomyDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎",
+        "id": "1761821960978460672",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1817696716381938013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 71,
+          "like_count": 220,
+          "listed_count": 0,
+          "tweet_count": 206
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T09:07:45.000Z",
+        "description": "今井名雪/nayuki | pronouns：he/it| 不是男娘，女的（生理、指派性别）| 🏳️‍🌈🏳️‍⚧️ftx，泛性恋| 中文 /Eng|mcr/blur/石玫瑰| 顺直男之外的人欢迎互fo一起玩 | 🚪22❤️ | 没过门一个问题10坐标15 | 梦想是成为最厉害的主音吉他手让世界知道我的名字❤️",
+        "id": "1786321671282143232",
+        "location": "距离你0.01km。New Jersey, USA",
+        "name": "白城明枝哥哥重度依赖（互fo互转版）",
+        "pinned_tweet_id": "1827787293438226729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828262185270726656/BgupE87p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 112,
+          "like_count": 35,
+          "listed_count": 2,
+          "tweet_count": 504
+        },
+        "username": "sodacream_nyk",
+        "verified": false
+      }
+    ]
+  }
+}

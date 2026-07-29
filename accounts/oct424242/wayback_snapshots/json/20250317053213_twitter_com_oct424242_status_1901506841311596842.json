@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901506836190449664"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1901506841311596842",
+    "created_at": "2025-03-17T05:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T06:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901506841311596842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fLHK16COtp",
+          "end": 45,
+          "expanded_url": "https://x.com/oct424242/status/1901506841311596842/photo/1",
+          "media_key": "3_1901506836190449664",
+          "start": 22,
+          "url": "https://t.co/fLHK16COtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901506841311596842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天被nt同学创到了🤗晚上回酒店享受一下吧 https://t.co/fLHK16COtp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901506836190449664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOCZJUb0AACu7w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901506836190449664"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1901506841311596842",
+        "created_at": "2025-03-17T05:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901506841311596842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLHK16COtp",
+              "end": 45,
+              "expanded_url": "https://x.com/oct424242/status/1901506841311596842/photo/1",
+              "media_key": "3_1901506836190449664",
+              "start": 22,
+              "url": "https://t.co/fLHK16COtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901506841311596842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天被nt同学创到了🤗晚上回酒店享受一下吧 https://t.co/fLHK16COtp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 67,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 488
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1988210032106971468",
+    "created_at": "2025-11-12T17:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T18:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988667498993184914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637972200371224577",
+          "start": 0,
+          "username": "P0larstern"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988667498993184914",
+    "in_reply_to_user_id": "1637972200371224577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988210032106971468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P0larstern 袭来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1988210032106971468",
+        "created_at": "2025-11-12T17:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988667498993184914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637972200371224577",
+              "start": 0,
+              "username": "P0larstern"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988667498993184914",
+        "in_reply_to_user_id": "1637972200371224577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988210032106971468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P0larstern 袭来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637972200371224577",
+        "conversation_id": "1988210032106971468",
+        "created_at": "2025-11-11T11:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988210032106971468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988210032106971468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2222,
+          "like_count": 9,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，中间忘了，后面忘了，我的互关你们回来好不好😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 108,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 761
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T00:19:55.000Z",
+        "description": "前世@nenamais1 | 男的 | 可以叫我小天 | 互关寻回大挑战",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "nenamais1"
+              }
+            ]
+          }
+        },
+        "id": "1637972200371224577",
+        "name": "P0larstern 2.0",
+        "pinned_tweet_id": "1988210032106971468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988182912299302912/fH5qbSP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 26,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "username": "P0larstern",
+        "verified": false
+      }
+    ]
+  }
+}

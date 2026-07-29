@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1898476349763080638",
+    "created_at": "2025-03-08T20:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T21:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898476349763080638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1898476349763080638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這次的同人女打架我只能說雙方我都不喜歡。\n一個寫文大量引用原文切不標註。作為創作者就算你標記引用我都不是很看得上這種寫法。\n另外一個空口鑑AI且表示一定要把對方拉下去。平生最恨這種網暴人了。\n以上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898476349763080638",
+        "created_at": "2025-03-08T20:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T21:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898476349763080638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898476349763080638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這次的同人女打架我只能說雙方我都不喜歡。\n一個寫文大量引用原文切不標註。作為創作者就算你標記引用我都不是很看得上這種寫法。\n另外一個空口鑑AI且表示一定要把對方拉下去。平生最恨這種網暴人了。\n以上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 60,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 420
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

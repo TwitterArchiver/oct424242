@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1817927369472270654",
+    "created_at": "2024-07-30T05:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T06:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818161321054969977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600339167594311680",
+          "start": 0,
+          "username": "sayonara149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818161321054969977",
+    "in_reply_to_user_id": "1600339167594311680",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818065115092308342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayonara149 或许你可以找阴暗爬行的精神病留子酷儿，要素拉满了属于"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1817927369472270654",
+        "created_at": "2024-07-30T05:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T06:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818161321054969977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600339167594311680",
+              "start": 0,
+              "username": "sayonara149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818161321054969977",
+        "in_reply_to_user_id": "1600339167594311680",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818065115092308342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayonara149 或许你可以找阴暗爬行的精神病留子酷儿，要素拉满了属于"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600339167594311680",
+        "conversation_id": "1817927369472270654",
+        "created_at": "2024-07-29T23:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T00:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818065115092308342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818065115092308342",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817982723669278819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 简中的不行。简中的酷儿大多数和我玩不来。会排挤我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎",
+        "id": "1761821960978460672",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1817696716381938013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 59,
+          "like_count": 146,
+          "listed_count": 0,
+          "tweet_count": 170
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T03:59:39.000Z",
+        "description": "無言フォロー失礼します。日常垢/中国語/日本語/ADHD/鬱病/ツィ廃/NEET/歴史オタク/夢発言（◎腐 ◎同担）/啮齿目认同/仓鼠行为失序症/混合型多意识体。巨龄赛博鼠，心智只有人类的9岁，很菜的一个看历史的死人控。骂我先骂他@anakin78831279 。跟历史和搞梦有关的骂人吐黑泥的号：@meimei1091",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "anakin78831279"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "meimei1091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sayonarasayo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sayonarasayo",
+                "start": 0,
+                "url": "https://t.co/VMoZt8e5IH"
+              }
+            ]
+          }
+        },
+        "id": "1600339167594311680",
+        "location": "海王星",
+        "name": "凤凰台上忆吹箫",
+        "pinned_tweet_id": "1814593041027772688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815861073851080708/Gt7-L_5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 680,
+          "like_count": 15481,
+          "listed_count": 0,
+          "tweet_count": 11408
+        },
+        "url": "https://t.co/VMoZt8e5IH",
+        "username": "sayonara149",
+        "verified": false
+      }
+    ]
+  }
+}

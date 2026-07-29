@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1978135959901188291",
+    "created_at": "2025-10-14T16:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978135959901188291"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978135959901188291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天下了雨，阴冷，水暖还没起来，自己开了暖风机，房间里的温度很快上来了。放假了，没有课，同学回家了，一个人在宿舍里，可以不用说话，有时间一天进食三次。在这种干燥而暖洋洋的空气里，极其困倦。胶囊卡在食道里，冰饮外壁凝结的水珠会弄脏手。但是这已经是可以忽略不计的不适了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1978135959901188291",
+        "created_at": "2025-10-14T16:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978135959901188291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978135959901188291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天下了雨，阴冷，水暖还没起来，自己开了暖风机，房间里的温度很快上来了。放假了，没有课，同学回家了，一个人在宿舍里，可以不用说话，有时间一天进食三次。在这种干燥而暖洋洋的空气里，极其困倦。胶囊卡在食道里，冰饮外壁凝结的水珠会弄脏手。但是这已经是可以忽略不计的不适了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 106,
+          "like_count": 981,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 685
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

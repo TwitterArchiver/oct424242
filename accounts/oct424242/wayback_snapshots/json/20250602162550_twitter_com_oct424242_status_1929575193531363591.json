@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1929413511240630459",
+    "created_at": "2025-06-02T16:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T17:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929575193531363591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808933044545630208",
+          "start": 0,
+          "username": "TauCeti_10700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929575193531363591",
+    "in_reply_to_user_id": "1808933044545630208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929413511240630459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TauCeti_10700 哎……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1929413506278764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsanXIqWMAA1tgq.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1929413506329165824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsanXI2XQAAkJGL.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2203,
+        "media_key": "3_1929413506278780928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsanXIqWcAANbHP.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1743,
+        "media_key": "3_1929413506270392320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsanXIoWcAAUm5I.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1929413511240630459",
+        "created_at": "2025-06-02T16:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929575193531363591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929575193531363591",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929413511240630459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 哎……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929413506278764544",
+            "3_1929413506329165824",
+            "3_1929413506278780928",
+            "3_1929413506270392320"
+          ]
+        },
+        "author_id": "1808933044545630208",
+        "conversation_id": "1929413511240630459",
+        "created_at": "2025-06-02T05:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929413511240630459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gzOhysFWC",
+              "end": 127,
+              "expanded_url": "https://x.com/TauCeti_10700/status/1929413511240630459/photo/1",
+              "media_key": "3_1929413506278764544",
+              "start": 104,
+              "url": "https://t.co/9gzOhysFWC"
+            },
+            {
+              "display_url": "pic.x.com/9gzOhysFWC",
+              "end": 127,
+              "expanded_url": "https://x.com/TauCeti_10700/status/1929413511240630459/photo/1",
+              "media_key": "3_1929413506329165824",
+              "start": 104,
+              "url": "https://t.co/9gzOhysFWC"
+            },
+            {
+              "display_url": "pic.x.com/9gzOhysFWC",
+              "end": 127,
+              "expanded_url": "https://x.com/TauCeti_10700/status/1929413511240630459/photo/1",
+              "media_key": "3_1929413506278780928",
+              "start": 104,
+              "url": "https://t.co/9gzOhysFWC"
+            },
+            {
+              "display_url": "pic.x.com/9gzOhysFWC",
+              "end": 127,
+              "expanded_url": "https://x.com/TauCeti_10700/status/1929413511240630459/photo/1",
+              "media_key": "3_1929413506270392320",
+              "start": 104,
+              "url": "https://t.co/9gzOhysFWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929413511240630459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的会爱上一些生命中的过客...\n\n它们都在失联/错过/逝世的各种原因，占据了短暂的一席之地后就不告而别了\n\n（所以后来啊，有一次，我去向一个感觉合得来的朋友要了私下联系方式。事实应证了，这么做是值得的） https://t.co/9gzOhysFWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 71,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 586
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "只是一些无关紧要的自言自语罢了 炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 24,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 136
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1978137024935657487",
+    "created_at": "2025-10-14T16:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978137024935657487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oct424242/stat…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/oct424242/status/1978136709079396461",
+          "start": 110,
+          "url": "https://t.co/tpt0stco5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978137024935657487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978136709079396461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直以为，不适才是生活的主要基调，而舒适是一种负奖励：如果不做某些事就会感到难受。可是，许多事情着实是没办法做到的。大部分人，应该长久地处于某种坐立难安的不适之中。可真是如此的话，这种现象为什么没有被大规模地记录呢？ https://t.co/tpt0stco5f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1978137024935657487",
+        "created_at": "2025-10-14T16:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978137024935657487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/oct424242/status/1978136709079396461",
+              "start": 110,
+              "url": "https://t.co/tpt0stco5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978137024935657487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978136709079396461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直以为，不适才是生活的主要基调，而舒适是一种负奖励：如果不做某些事就会感到难受。可是，许多事情着实是没办法做到的。大部分人，应该长久地处于某种坐立难安的不适之中。可真是如此的话，这种现象为什么没有被大规模地记录呢？ https://t.co/tpt0stco5f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1978136709079396461",
+        "created_at": "2025-10-14T16:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978136709079396461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/oct424242/status/1978135959901188291",
+              "start": 102,
+              "url": "https://t.co/HpPrd4cYzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978136709079396461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978135959901188291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像这是纯粹的肉体上的幸福，什么都不想，什么都不做，困倦地看着电脑屏幕，没有摄入也没有产出，就这样几个小时过去……胆战心惊地让几个小时过去，因为感到过于地惬意而产生了恐慌。认为自己抢占了某种稀缺的资源。 https://t.co/HpPrd4cYzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 106,
+          "like_count": 981,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 687
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

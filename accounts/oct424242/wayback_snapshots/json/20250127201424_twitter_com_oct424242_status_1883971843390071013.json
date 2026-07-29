@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1883215127920693340",
+    "created_at": "2025-01-27T20:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T21:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883971843390071013"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "omgthis",
+          "probability": 0.7113,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1265993990899261443",
+          "start": 0,
+          "username": "sushiisiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883971843390071013",
+    "in_reply_to_user_id": "1265993990899261443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883917138005782929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiisiu omgthis is so so so cute"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1883215127920693340",
+        "created_at": "2025-01-27T20:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T21:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883971843390071013"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "omgthis",
+              "probability": 0.7113,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1265993990899261443",
+              "start": 0,
+              "username": "sushiisiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883971843390071013",
+        "in_reply_to_user_id": "1265993990899261443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883917138005782929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiisiu omgthis is so so so cute"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265993990899261443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1445795754090450954",
+              "name": "Arcane"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1460297604529491971",
+              "name": "Arcane Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1460297604529491971",
+              "name": "Arcane Series"
+            }
+          }
+        ],
+        "conversation_id": "1883215127920693340",
+        "created_at": "2025-01-27T16:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883917138005782929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sushiisiu/stat…",
+              "end": 23,
+              "expanded_url": "https://x.com/sushiisiu/status/1883907280045019476?t=C1ENGq5BIyQfShUTFqCSVQ&s=19",
+              "start": 0,
+              "url": "https://t.co/5eRBSF2G14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883917138005782929",
+        "in_reply_to_user_id": "1265993990899261443",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 730,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883907280045019476",
+            "type": "quoted"
+          },
+          {
+            "id": "1883238646847004759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5eRBSF2G14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 85,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 361
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T13:11:08.000Z",
+        "description": "NO REPOSTS | 🇭🇰 | 中eng ok | 雜坑腐女\nsame @ on Insta/tumblr/bsky\n廢文doodles ➡️ @sashimiisiu | 🔞 @churchbingo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "sashimiisiu"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "churchbingo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sushiisiu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://sushiisiu.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/2NmIQDZK6N"
+              }
+            ]
+          }
+        },
+        "id": "1265993990899261443",
+        "location": "he/they | 20 ",
+        "name": "阿霄 siu @ PACKING MERCH!!!",
+        "pinned_tweet_id": "1883907280045019476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876099531403870208/v2DqJcrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41718,
+          "following_count": 675,
+          "like_count": 84945,
+          "listed_count": 137,
+          "media_count": 2105,
+          "tweet_count": 47614
+        },
+        "url": "https://t.co/2NmIQDZK6N",
+        "username": "sushiisiu",
+        "verified": false
+      }
+    ]
+  }
+}

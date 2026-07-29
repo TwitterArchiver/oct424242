@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1816805922557333629",
+    "created_at": "2024-07-26T15:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T16:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816863020372365585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745741310819196928",
+          "start": 0,
+          "username": "Mphforlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816863020372365585",
+    "in_reply_to_user_id": "1745741310819196928",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816862785776783569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mphforlove 这也太迅速……！好厉害"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1816862785776783569].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1816862785776783569",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1816862785776783569"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1816805922557333629",
+        "created_at": "2024-07-26T15:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T16:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816863020372365585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745741310819196928",
+              "start": 0,
+              "username": "Mphforlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816863020372365585",
+        "in_reply_to_user_id": "1745741310819196928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816862785776783569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mphforlove 这也太迅速……！好厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎",
+        "id": "1761821960978460672",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1762483898045661523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 59,
+          "like_count": 101,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T09:35:47.000Z",
+        "description": "ok so …",
+        "id": "1745741310819196928",
+        "location": "今天祈祷上帝下三天mph的雨",
+        "name": "Quixotic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811714917231394818/WUcPaeuU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 66,
+          "like_count": 4885,
+          "listed_count": 0,
+          "tweet_count": 3129
+        },
+        "username": "Mphforlove",
+        "verified": false
+      }
+    ]
+  }
+}

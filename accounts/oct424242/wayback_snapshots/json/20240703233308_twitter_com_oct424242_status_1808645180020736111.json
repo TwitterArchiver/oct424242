@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1808628311893107002",
+    "created_at": "2024-07-03T23:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T00:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808645180020736111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694934834638884864",
+          "start": 0,
+          "username": "dopamania_mari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808645180020736111",
+    "in_reply_to_user_id": "1761821960978460672",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808644352979390581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dopamania_mari id拿来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1808628311893107002",
+        "created_at": "2024-07-03T23:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T00:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808645180020736111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694934834638884864",
+              "start": 0,
+              "username": "dopamania_mari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808645180020736111",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808644352979390581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dopamania_mari id拿来"
+      },
+      {
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1808628311893107002",
+        "created_at": "2024-07-03T23:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T00:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808644352979390581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694934834638884864",
+              "start": 0,
+              "username": "dopamania_mari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808644352979390581",
+        "in_reply_to_user_id": "1694934834638884864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808644288139407726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dopamania_mari 老公请"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎",
+        "id": "1761821960978460672",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1762483898045661523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 48,
+          "like_count": 72,
+          "listed_count": 0,
+          "tweet_count": 105
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T04:48:59.000Z",
+        "description": "真理/Mari/マリ/直女微双",
+        "id": "1694934834638884864",
+        "location": "拿不到A就出不去的房间",
+        "name": "真理親",
+        "pinned_tweet_id": "1703486260151472554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714310951804039168/m7Inf_Pz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 80,
+          "like_count": 626,
+          "listed_count": 0,
+          "tweet_count": 712
+        },
+        "username": "dopamania_mari",
+        "verified": false
+      }
+    ]
+  }
+}

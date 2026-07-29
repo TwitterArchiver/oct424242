@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1898619253886214609",
+    "created_at": "2025-03-09T06:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T07:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898619253886214609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oct424242/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/oct424242/status/1898618422822625707",
+          "start": 12,
+          "url": "https://t.co/zGCnlN5Box"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898619253886214609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898618422822625707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同溫層好，愛我的同溫層 https://t.co/zGCnlN5Box"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898619253886214609",
+        "created_at": "2025-03-09T06:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898619253886214609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/oct424242/status/1898618422822625707",
+              "start": 12,
+              "url": "https://t.co/zGCnlN5Box"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898619253886214609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898618422822625707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同溫層好，愛我的同溫層 https://t.co/zGCnlN5Box"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898618422822625707",
+        "created_at": "2025-03-09T06:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898618422822625707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898618422822625707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到了讓我生氣的內容，算了沒有力氣生氣了⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 60,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 432
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

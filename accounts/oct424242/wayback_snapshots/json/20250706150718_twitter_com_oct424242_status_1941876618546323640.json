@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1941488342824321518",
+    "created_at": "2025-07-06T15:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T16:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941876618546323640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941876618546323640",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941841275151692054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 猫猫！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1941841251399356416",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GvLOVG_b0AA8V_M.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GvLOVG_b0AA8V_M.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1941488342824321518",
+        "created_at": "2025-07-06T15:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941876618546323640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941876618546323640",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941841275151692054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 猫猫！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1941841251399356416"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "1941488342824321518",
+        "created_at": "2025-07-06T12:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T13:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941841275151692054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKknyy32eQ",
+              "end": 44,
+              "expanded_url": "https://x.com/AnIncandescence/status/1941841275151692054/photo/1",
+              "media_key": "16_1941841251399356416",
+              "start": 21,
+              "url": "https://t.co/EKknyy32eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941841275151692054",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941488342824321518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这只🐈‍⬛一半胡子是黑的一半是白的... https://t.co/EKknyy32eQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 74,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 609
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，C#，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158 | 不卖东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescence",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence",
+                "start": 0,
+                "url": "https://t.co/MuEKSg4tIS"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1926637878257311824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930288376399155200/A42NAeD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 199,
+          "like_count": 8757,
+          "listed_count": 1,
+          "media_count": 640,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883872572133326848"
+      ],
+      "media_source_tweet_id": [
+        "1883872579515248823"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "1883969349016510835",
+    "created_at": "2025-01-27T20:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T21:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883969349016510835"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "jayvik yaoi",
+          "probability": 0.8633,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713207167233449984",
+          "start": 3,
+          "username": "naberiuztwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SCXAql9OQ9",
+          "end": 82,
+          "expanded_url": "https://x.com/naberiuztwt/status/1883872579515248823/photo/1",
+          "media_key": "3_1883872572133326848",
+          "start": 59,
+          "url": "https://t.co/SCXAql9OQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883969349016510835",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 941
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883872579515248823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naberiuztwt: my contribution to jayvik yaoi traditions https://t.co/SCXAql9OQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1883872572133326848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiTcH4gbwAAPkRW.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883872572133326848"
+          ],
+          "media_source_tweet_id": [
+            "1883872579515248823"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "1883969349016510835",
+        "created_at": "2025-01-27T20:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T21:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883969349016510835"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "jayvik yaoi",
+              "probability": 0.8633,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713207167233449984",
+              "start": 3,
+              "username": "naberiuztwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCXAql9OQ9",
+              "end": 82,
+              "expanded_url": "https://x.com/naberiuztwt/status/1883872579515248823/photo/1",
+              "media_key": "3_1883872572133326848",
+              "start": 59,
+              "url": "https://t.co/SCXAql9OQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883969349016510835",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 941
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883872579515248823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naberiuztwt: my contribution to jayvik yaoi traditions https://t.co/SCXAql9OQ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883872572133326848"
+          ]
+        },
+        "author_id": "1713207167233449984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "1883872579515248823",
+        "created_at": "2025-01-27T13:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883872579515248823"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "jayvik yaoi",
+              "probability": 0.8512,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCXAql9OQ9",
+              "end": 65,
+              "expanded_url": "https://x.com/naberiuztwt/status/1883872579515248823/photo/1",
+              "media_key": "3_1883872572133326848",
+              "start": 42,
+              "url": "https://t.co/SCXAql9OQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883872579515248823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 978,
+          "impression_count": 83351,
+          "like_count": 11254,
+          "quote_count": 99,
+          "reply_count": 25,
+          "retweet_count": 941
+        },
+        "reply_settings": "everyone",
+        "text": "my contribution to jayvik yaoi traditions https://t.co/SCXAql9OQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 85,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 360
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T14:56:47.000Z",
+        "description": "jayvik, T!J and B!V ONLY. lawlight, L月 ONLY, 🚫🔄. i draw fanart and write fics (ao3: naberiuztxt). nsfw, 23, 🇵🇭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naberiuz.straw.page",
+                "end": 23,
+                "expanded_url": "https://naberiuz.straw.page/",
+                "start": 0,
+                "url": "https://t.co/2FnE16UQvp"
+              }
+            ]
+          }
+        },
+        "id": "1713207167233449984",
+        "location": "she/they ",
+        "name": "Nat 👽 glorious evolutionary biologist",
+        "pinned_tweet_id": "1850944506910425327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879575717501181957/YIsHFiGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 304,
+          "like_count": 3557,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 3119
+        },
+        "url": "https://t.co/2FnE16UQvp",
+        "username": "naberiuztwt",
+        "verified": false
+      }
+    ]
+  }
+}

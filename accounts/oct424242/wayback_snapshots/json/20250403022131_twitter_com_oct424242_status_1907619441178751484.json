@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1907618564888314198",
+    "created_at": "2025-04-03T02:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907619441178751484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600339167594311680",
+          "start": 0,
+          "username": "sayonara149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907619441178751484",
+    "in_reply_to_user_id": "1600339167594311680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907618564888314198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayonara149 但是这个也是ssri……？感觉加了不会马上有什么用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1907618564888314198",
+        "created_at": "2025-04-03T02:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907619441178751484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600339167594311680",
+              "start": 0,
+              "username": "sayonara149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907619441178751484",
+        "in_reply_to_user_id": "1600339167594311680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907618564888314198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayonara149 但是这个也是ssri……？感觉加了不会马上有什么用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600339167594311680",
+        "conversation_id": "1907618564888314198",
+        "created_at": "2025-04-03T02:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907618564888314198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907618564888314198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在线等挺急的，我之前上班每天必须1t安非他酮不然会感觉工作异常困难(抑郁 反应迟钝 启动困难什么的)，但是现在它抗抑郁效果对我来说寥寥无几了……安非他酮会导致我失眠(我本身睡眠焦虑很严重……)\n所以现在为了能继续上班我应该怎么办……保持目前药量死撑着还是加药量还是加司来吉兰(这个能加吗)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 71,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 505
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T03:59:39.000Z",
+        "description": "中国語/日本語。GNC.友顺 精神疾患 NEET。pronouns:它/彼/it。雑多垢。病み発言、腐と夢の発言がある。中史圈过街老鼠，网敌最恨的秦桧梦女/梦enby。梦角哥时代史重度依存症。偶尔是精神女真人。退学2021.9.3 サブ垢@meimei1091 nym @Pissenlit_AH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "meimei1091"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Pissenlit_AH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sayonarasayo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sayonarasayo",
+                "start": 0,
+                "url": "https://t.co/VMoZt8e5IH"
+              }
+            ]
+          }
+        },
+        "id": "1600339167594311680",
+        "location": "海王星",
+        "name": "求黑社会收留",
+        "pinned_tweet_id": "1867711359540244946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906450088534192129/tj27rYXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 921,
+          "like_count": 18734,
+          "listed_count": 0,
+          "media_count": 2095,
+          "tweet_count": 16134
+        },
+        "url": "https://t.co/VMoZt8e5IH",
+        "username": "sayonara149",
+        "verified": false
+      }
+    ]
+  }
+}

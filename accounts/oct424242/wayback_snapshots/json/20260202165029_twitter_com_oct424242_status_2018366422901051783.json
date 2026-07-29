@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2018365471368835495",
+    "created_at": "2026-02-02T16:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018366422901051783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1600339167594311680",
+          "start": 0,
+          "username": "0wP_uU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018366422901051783",
+    "in_reply_to_user_id": "1600339167594311680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018365471368835495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@0wP_uU 非did但是听did友说这种情况挺常见的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2018365471368835495",
+        "created_at": "2026-02-02T16:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018366422901051783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1600339167594311680",
+              "start": 0,
+              "username": "0wP_uU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018366422901051783",
+        "in_reply_to_user_id": "1600339167594311680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018365471368835495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@0wP_uU 非did但是听did友说这种情况挺常见的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600339167594311680",
+        "conversation_id": "2018365471368835495",
+        "created_at": "2026-02-02T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018365471368835495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018365471368835495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对DID患者来说，失去真实的记忆的同时大脑自动给一段记忆空白的时期补全一段“虚假的记忆”这件事是正常的吗……我总担心自己是不是有癔症或者幻觉了。因为有时候我明明记得我说了A但是周围的人却说我当时说的是B，如果不是有其他的人证在场的话我甚至都不知道我的记忆出现了错乱。\n↑这段话我分别发给gemini gpt grok，他们三个都说这样正常我才稍微放心\n我也没有办法我一和别人说话就会解离，跟父母说话，现实中或者网上跟陌生人说话，还有打电话的时候，都会这样\n这很恐怖啊！\n打电话的时候还经常听不到对面说什么……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "对DID患者来说，失去真实的记忆的同时大脑自动给一段记忆空白的时期补全一段“虚假的记忆”这件事是正常的吗……我总担心自己是不是有癔症或者幻觉了。因为有时候我明明记得我说了A但是周围的人却说我当时说的是B，如果不是有其他的人证在场的话我甚至都不知道我的记忆出现了错乱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 166,
+          "like_count": 1594,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1004
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T03:59:39.000Z",
+        "description": "無言フォロー失礼します。中国語アカです。愚痴┆雑多┆病み┆ネット原住民 ┆ニート┆歴オタ ┆#systwt 。隠語やスラングが多くてすみません。鍵垢: @meimei1091 （好像是把梦角哥变成introject的病入膏肓的南宋初全息宇宙DID系统，看历史把我们毁了。）我是小学生。我不要和反右/反唯物主义的人说话。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "systwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "meimei1091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sayonarasayo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sayonarasayo",
+                "start": 0,
+                "url": "https://t.co/VMoZt8e5IH"
+              }
+            ]
+          }
+        },
+        "id": "1600339167594311680",
+        "location": "海王星",
+        "name": "悼宋之作·焈",
+        "pinned_tweet_id": "2010387071844962344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015540956351930369/nt6AWuHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 576,
+          "like_count": 21235,
+          "listed_count": 1,
+          "media_count": 2463,
+          "tweet_count": 19649
+        },
+        "url": "https://t.co/VMoZt8e5IH",
+        "username": "0wP_uU",
+        "verified": false
+      }
+    ]
+  }
+}

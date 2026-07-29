@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1898725871462097156",
+    "created_at": "2025-03-09T13:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T14:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898725871462097156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oct424242/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/oct424242/status/1898725488224583753",
+          "start": 20,
+          "url": "https://t.co/JKgwja2ZZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898725871462097156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898725488224583753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要生氣⋯⋯不要生氣⋯⋯不要生氣⋯⋯⋯ https://t.co/JKgwja2ZZs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898725871462097156",
+        "created_at": "2025-03-09T13:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898725871462097156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/oct424242/status/1898725488224583753",
+              "start": 20,
+              "url": "https://t.co/JKgwja2ZZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898725871462097156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898725488224583753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要生氣⋯⋯不要生氣⋯⋯不要生氣⋯⋯⋯ https://t.co/JKgwja2ZZs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1898725488224583753",
+        "created_at": "2025-03-09T13:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T14:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898725488224583753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898725488224583753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「科学家是追求科学之美就好像我听到有人说科学的尽头是神学一样荒谬」\n這句話真給我說破防了，那你把我殺了得了？你給我開出scientist籍貫？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 60,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 437
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

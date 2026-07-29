@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2047242285960880370",
+    "created_at": "2026-05-04T17:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051353862519349433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929782343889248257",
+          "start": 0,
+          "username": "ZhanSJRT"
+        },
+        {
+          "end": 23,
+          "id": "1811843582229381123",
+          "start": 10,
+          "username": "RainduRhinns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051353862519349433",
+    "in_reply_to_user_id": "1929782343889248257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051349012146491654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhanSJRT @RainduRhinns 迷幻治療嗎hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2047242285960880370",
+        "created_at": "2026-05-04T17:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051353862519349433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929782343889248257",
+              "start": 0,
+              "username": "ZhanSJRT"
+            },
+            {
+              "end": 23,
+              "id": "1811843582229381123",
+              "start": 10,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051353862519349433",
+        "in_reply_to_user_id": "1929782343889248257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051349012146491654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhanSJRT @RainduRhinns 迷幻治療嗎hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929782343889248257",
+        "conversation_id": "2047242285960880370",
+        "created_at": "2026-05-04T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051349012146491654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051349012146491654",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047242285960880370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 有条件的弄个签证去德国待两周 买到LSD变体 两周三次 第一次适应 第二次 重塑 第三次 稳固 就好了 基本1-2年没问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "",
+        "id": "1761821960978460672",
+        "name": "kernarme（结束了被害妄想",
+        "pinned_tweet_id": "2043203155052126598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 219,
+          "like_count": 2096,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1320
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T06:09:27.000Z",
+        "description": "不要让致幻剂成为你生活的全部",
+        "id": "1929782343889248257",
+        "location": "ego death",
+        "name": "felixx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989307794369970177/RtYFOw7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 181,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 272
+        },
+        "username": "ZhanSJRT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 893,
+          "like_count": 4266,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2042088964018905165",
+    "created_at": "2026-04-09T03:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042088964018905165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837496275656495107",
+          "start": 3,
+          "username": "Evigt_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042088964018905165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041645161307107692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Evigt_404: 现实真的很超现实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2042088964018905165",
+        "created_at": "2026-04-09T03:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042088964018905165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837496275656495107",
+              "start": 3,
+              "username": "Evigt_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042088964018905165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041645161307107692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Evigt_404: 现实真的很超现实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837496275656495107",
+        "conversation_id": "2041645161307107692",
+        "created_at": "2026-04-07T22:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041645161307107692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041645161307107692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现实真的很超现实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚",
+        "id": "1761821960978460672",
+        "name": "🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025827248633171968/d7BX3Lk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 201,
+          "like_count": 1954,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1238
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: Evigt & Sys_Evi\n苯海拉明受害者联盟",
+        "id": "1837496275656495107",
+        "name": "AaAAaaaaAa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 203,
+          "like_count": 2920,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2054
+        },
+        "username": "Evigt_404",
+        "verified": false
+      }
+    ]
+  }
+}

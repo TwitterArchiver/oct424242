@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2005085942638686674",
+    "created_at": "2025-12-28T01:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T02:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005085942638686674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oct424242/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/oct424242/status/2005085185281544624",
+          "start": 52,
+          "url": "https://t.co/N5GGUUcJoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005085942638686674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005085185281544624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "听起来真的很抱歉，但是使用药物和自伤某种程度上都需要一定的空闲时间，但是大部分时间连做这个的时间都没有 https://t.co/N5GGUUcJoL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2005085942638686674",
+        "created_at": "2025-12-28T01:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T02:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005085942638686674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oct424242/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/oct424242/status/2005085185281544624",
+              "start": 52,
+              "url": "https://t.co/N5GGUUcJoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005085942638686674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005085185281544624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "听起来真的很抱歉，但是使用药物和自伤某种程度上都需要一定的空闲时间，但是大部分时间连做这个的时间都没有 https://t.co/N5GGUUcJoL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2004906465807716505",
+        "created_at": "2025-12-28T01:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T02:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005085185281544624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837496275656495107",
+              "start": 0,
+              "username": "Evigt_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005085185281544624",
+        "in_reply_to_user_id": "1837496275656495107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005084945136631882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evigt_404 可以试试（？）不知道能放多少个。其实之前有带过，但是因为太忙根本没有自伤的时间www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 123,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 794
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

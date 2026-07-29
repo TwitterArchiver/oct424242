@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2049455496420098142",
+    "created_at": "2026-04-29T11:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049455496420098142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038975737055543296",
+          "start": 3,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049455496420098142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049400137827672206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WujiChem: 声明：\n\n我绝对不会自杀 至少这两年内绝对不会\n\n如果接下来两周我“自杀” 了，那就是他杀、或“被消失”了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2049455496420098142",
+        "created_at": "2026-04-29T11:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049455496420098142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038975737055543296",
+              "start": 3,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049455496420098142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049400137827672206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WujiChem: 声明：\n\n我绝对不会自杀 至少这两年内绝对不会\n\n如果接下来两周我“自杀” 了，那就是他杀、或“被消失”了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2049400137827672206",
+        "created_at": "2026-04-29T08:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049400137827672206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049400137827672206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3436,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "声明：\n\n我绝对不会自杀 至少这两年内绝对不会\n\n如果接下来两周我“自杀” 了，那就是他杀、或“被消失”了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "",
+        "id": "1761821960978460672",
+        "name": "kernarme（结束了被害妄想",
+        "pinned_tweet_id": "2043203155052126598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 223,
+          "like_count": 2076,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1301
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "中國政治犯(CPPC编号：01154）｜反社會人格｜毫无同理心｜厭蠢症｜武士道｜☯️🧬無極的经理皆创始人｜ADHD",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽 AKA 葉經理（無極）",
+        "pinned_tweet_id": "2049400137827672206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606935378767872/Ux18SO6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 104,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 448
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

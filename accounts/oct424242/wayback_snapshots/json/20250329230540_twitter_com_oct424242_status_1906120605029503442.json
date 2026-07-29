@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906120598171840513",
+        "3_1906120598163533824",
+        "3_1906120598171869184",
+        "3_1906120598171860992"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "conversation_id": "1906120605029503442",
+    "created_at": "2025-03-29T23:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T00:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906120605029503442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L34egvs0jI",
+          "end": 23,
+          "expanded_url": "https://x.com/oct424242/status/1906120605029503442/photo/1",
+          "media_key": "3_1906120598171840513",
+          "start": 0,
+          "url": "https://t.co/L34egvs0jI"
+        },
+        {
+          "display_url": "pic.x.com/L34egvs0jI",
+          "end": 23,
+          "expanded_url": "https://x.com/oct424242/status/1906120605029503442/photo/1",
+          "media_key": "3_1906120598163533824",
+          "start": 0,
+          "url": "https://t.co/L34egvs0jI"
+        },
+        {
+          "display_url": "pic.x.com/L34egvs0jI",
+          "end": 23,
+          "expanded_url": "https://x.com/oct424242/status/1906120605029503442/photo/1",
+          "media_key": "3_1906120598171869184",
+          "start": 0,
+          "url": "https://t.co/L34egvs0jI"
+        },
+        {
+          "display_url": "pic.x.com/L34egvs0jI",
+          "end": 23,
+          "expanded_url": "https://x.com/oct424242/status/1906120605029503442/photo/1",
+          "media_key": "3_1906120598171860992",
+          "start": 0,
+          "url": "https://t.co/L34egvs0jI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906120605029503442",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/L34egvs0jI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906120605029503442].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906120605029503442",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906120605029503442"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906120598171840513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnPmlcEWcAEU7W1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906120598163533824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnPmlcCXsAAZqU-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1514,
+        "media_key": "3_1906120598171869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnPmlcEW4AAMjAR.jpg",
+        "width": 1514
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906120598171860992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnPmlcEWwAA5BQQ.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️神经多样性|中文/eng|oc人/双城男同我恨你们❤jayvik❤",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 71,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 498
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}
