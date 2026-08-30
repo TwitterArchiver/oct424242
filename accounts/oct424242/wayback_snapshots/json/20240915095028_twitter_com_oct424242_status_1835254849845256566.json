@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1835254849845256566",
+    "created_at": "2024-09-15T09:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T10:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835254849845256566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1659297861060943873",
+          "start": 3,
+          "username": "sixmonthautumn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835254849845256566",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834808368743199228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sixmonthautumn: 再次強調 想死是一個狀態\n是一個名詞 不是一個動詞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1835254849845256566",
+        "created_at": "2024-09-15T09:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T10:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835254849845256566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1659297861060943873",
+              "start": 3,
+              "username": "sixmonthautumn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835254849845256566",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834808368743199228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sixmonthautumn: 再次強調 想死是一個狀態\n是一個名詞 不是一個動詞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659297861060943873",
+        "conversation_id": "1834808368743199228",
+        "created_at": "2024-09-14T04:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T05:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834808368743199228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834808368743199228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "再次強調 想死是一個狀態\n是一個名詞 不是一個動詞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️伪装成跨男娘的agender|泛浪漫无性恋，恋爱中❤|神经多样性(asd/adhd/抑郁/焦虑/疑似双相混合Ⅱ型？)|物理系cosmology|中文/eng|oc人|哥特|医疗系|欢迎互fo和小窗",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 83,
+          "like_count": 310,
+          "listed_count": 0,
+          "tweet_count": 266
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T20:41:06.000Z",
+        "description": "要吃炒烏冬的楓葉🍜",
+        "id": "1659297861060943873",
+        "location": "在風中飄蕩",
+        "name": "六月秋色",
+        "pinned_tweet_id": "1819354672999903281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832788399964778496/UaFAph2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 36,
+          "like_count": 455,
+          "listed_count": 1,
+          "tweet_count": 702
+        },
+        "username": "sixmonthautumn",
+        "verified": false
+      }
+    ]
+  }
+}

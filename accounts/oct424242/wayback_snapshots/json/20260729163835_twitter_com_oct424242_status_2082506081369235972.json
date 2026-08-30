@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082309688025317376"
+      ],
+      "media_source_tweet_id": [
+        "2082309694765645952"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "conversation_id": "2082506081369235972",
+    "created_at": "2026-07-29T16:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082506081369235972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2010929506127851520",
+          "start": 3,
+          "username": "sparrowincrisis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g90fCbneAB",
+          "end": 72,
+          "expanded_url": "https://x.com/sparrowincrisis/status/2082309694765645952/photo/1",
+          "media_key": "3_2082309688025317376",
+          "start": 49,
+          "url": "https://t.co/g90fCbneAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082506081369235972",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082309694765645952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sparrowincrisis: i believe in bird supremacy https://t.co/g90fCbneAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2082309688025317376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXZoPMagAAjUtV.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082309688025317376"
+          ]
+        },
+        "author_id": "2010929506127851520",
+        "conversation_id": "2082309694765645952",
+        "created_at": "2026-07-29T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082309694765645952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g90fCbneAB",
+              "end": 51,
+              "expanded_url": "https://x.com/sparrowincrisis/status/2082309694765645952/photo/1",
+              "media_key": "3_2082309688025317376",
+              "start": 28,
+              "url": "https://t.co/g90fCbneAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082309694765645952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 7463,
+          "like_count": 648,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "i believe in bird supremacy https://t.co/g90fCbneAB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082309688025317376"
+          ],
+          "media_source_tweet_id": [
+            "2082309694765645952"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "conversation_id": "2082506081369235972",
+        "created_at": "2026-07-29T16:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082506081369235972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2010929506127851520",
+              "start": 3,
+              "username": "sparrowincrisis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g90fCbneAB",
+              "end": 72,
+              "expanded_url": "https://x.com/sparrowincrisis/status/2082309694765645952/photo/1",
+              "media_key": "3_2082309688025317376",
+              "start": 49,
+              "url": "https://t.co/g90fCbneAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082506081369235972",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082309694765645952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sparrowincrisis: i believe in bird supremacy https://t.co/g90fCbneAB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 182,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T04:18:58.000Z",
+        "description": "I am pilot you know, and one day I will fly away from here. \nkinda naughty and endangered species.",
+        "id": "2010929506127851520",
+        "location": "Farmland",
+        "name": "Sparrow",
+        "pinned_tweet_id": "2082107799123943559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017596212401344514/1Vl1HfTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14887,
+          "following_count": 293,
+          "like_count": 5471,
+          "listed_count": 69,
+          "media_count": 1351,
+          "tweet_count": 6484
+        },
+        "url": "",
+        "username": "sparrowincrisis",
+        "verified": true
+      }
+    ]
+  }
+}

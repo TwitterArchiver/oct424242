@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2086920281516384722",
+    "created_at": "2026-08-11T06:06:50.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087058139501957429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894640865664274435",
+          "start": 0,
+          "username": "mohannad1789941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087058139501957429",
+    "in_reply_to_user_id": "1894640865664274435",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086920281516384722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mohannad1789941 ……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2086920275791171584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPY67xEX0AABV8w.jpg",
+        "width": 697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2086920281516384722",
+        "created_at": "2026-08-11T06:06:50.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087058139501957429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894640865664274435",
+              "start": 0,
+              "username": "mohannad1789941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087058139501957429",
+        "in_reply_to_user_id": "1894640865664274435",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086920281516384722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mohannad1789941 ……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086920275791171584"
+          ]
+        },
+        "author_id": "1894640865664274435",
+        "conversation_id": "2086920281516384722",
+        "created_at": "2026-08-10T20:59:02.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086920281516384722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNXfHn77Qo",
+              "end": 277,
+              "expanded_url": "https://x.com/mohannad1789941/status/2086920281516384722/photo/1",
+              "media_key": "3_2086920275791171584",
+              "start": 254,
+              "url": "https://t.co/uNXfHn77Qo"
+            },
+            {
+              "display_url": "x.com/mohannad178994…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/mohannad1789941/status/2086201858209821183",
+              "start": 278,
+              "url": "https://t.co/SmvptX7Cfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086920281516384722",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086920275791171584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1808,
+          "like_count": 61,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086201858209821183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Unfortunately, I will die 💔\n\ntelling you with a broken heart. I have been diagnosed with malnutrition due to lack of food. My body is gradually collapsing. Yes, I am hungry and I cannot buy food\n\nIf you’re scrolling, PLEASE leave a dot . it's just a dot https://t.co/uNXfHn77Qo https://t.co/SmvptX7Cfr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "is_identity_verified": false,
+        "location": "🛸",
+        "most_recent_tweet_id": "2087058139501957429",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761821960978460672/1777431936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 190,
+          "like_count": 2611,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1517
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-26T06:49:41.000Z",
+        "description": "My family's donation link 🍉\nhttps://t.co/Yujy9d8wW0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gofundme.com/f/donate-help-…",
+                "end": 51,
+                "expanded_url": "https://www.gofundme.com/f/donate-help-mustafa-muhannad-family-survive-gaza/cl/s?utm_campaign=fp_sharesheet&utm_content=amp17_te&ut",
+                "start": 28,
+                "url": "https://t.co/Yujy9d8wW0"
+              }
+            ]
+          }
+        },
+        "id": "1894640865664274435",
+        "is_identity_verified": false,
+        "location": "فلسطين",
+        "most_recent_tweet_id": "2086942558790271163",
+        "name": "Mohannad",
+        "pinned_tweet_id": "2086920281516384722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894640865664274435/1767211155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006455129696813056/sn85iF8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5804,
+          "following_count": 1659,
+          "like_count": 20793,
+          "listed_count": 7,
+          "media_count": 342,
+          "tweet_count": 5197
+        },
+        "url": "",
+        "username": "mohannad1789941",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

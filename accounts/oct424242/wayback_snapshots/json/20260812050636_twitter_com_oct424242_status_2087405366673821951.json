@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2086841073100591321",
+    "created_at": "2026-08-12T05:06:36.000Z",
+    "display_text_range": [
+      21,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087405366673821951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        },
+        {
+          "end": 20,
+          "id": "2053435734737186816",
+          "start": 10,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087405366673821951",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087401123904946541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo @xingstaro 防失联或许可以被用…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2086841073100591321",
+        "created_at": "2026-08-12T05:06:36.000Z",
+        "display_text_range": [
+          21,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087405366673821951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 20,
+              "id": "2053435734737186816",
+              "start": 10,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087405366673821951",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087401123904946541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @xingstaro 防失联或许可以被用…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2086841073100591321",
+        "created_at": "2026-08-12T04:49:44.000Z",
+        "display_text_range": [
+          22,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087401123904946541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            },
+            {
+              "end": 21,
+              "id": "2053435734737186816",
+              "start": 11,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087401123904946541",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086994800377496063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 @xingstaro 还有tg🥺需要的话可以留作备用ww"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "is_identity_verified": false,
+        "location": "🛸",
+        "most_recent_tweet_id": "2087405366673821951",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761821960978460672/1777431936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 190,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1520
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087402816134680998",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 972,
+          "like_count": 3980,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3033
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086837154752393631",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053435734737186816/1778413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 518,
+          "like_count": 1877,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

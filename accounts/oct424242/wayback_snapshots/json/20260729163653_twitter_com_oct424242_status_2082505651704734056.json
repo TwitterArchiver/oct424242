@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2081818446371934245",
+    "created_at": "2026-07-29T16:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082505651704734056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082505651704734056",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081818446371934245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 很高兴你也喜欢帕拉尼克"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2081818439019311104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1yCasAAu2me.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081818438981566464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1x5awAAyDwo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081818439036092416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1yGawAAgbkt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081818438977421312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQa1x4bgAAkwaS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2081818446371934245",
+        "created_at": "2026-07-29T16:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082505651704734056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082505651704734056",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081818446371934245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 很高兴你也喜欢帕拉尼克"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081818439019311104",
+            "3_2081818438981566464",
+            "3_2081818439036092416",
+            "3_2081818438977421312"
+          ]
+        },
+        "author_id": "1860377535215013888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2081818446371934245",
+        "created_at": "2026-07-27T19:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081818446371934245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818439019311104",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            },
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818438981566464",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            },
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818439036092416",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            },
+            {
+              "display_url": "pic.x.com/tGfGUBYYQW",
+              "end": 188,
+              "expanded_url": "https://x.com/AraiNogawaovo/status/2081818446371934245/photo/1",
+              "media_key": "3_2081818438977421312",
+              "start": 165,
+              "url": "https://t.co/tGfGUBYYQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081818446371934245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "快200fo了更新一下置顶🔝\nArai/Kilo/东隅 直fo必回\nENTP 生理女心理女\nADHD/双相/重焦重抑/od/烟酒/自伤❌\n已成年📍Singapore\n爱人asexsual本人pansexsual 我们一体\n研究一些犯罪心理学精神诊断学\n-\n消息可能不会及时回复看到想回就回\n睡眠障碍持续骚扰中od只是为了安定🥺❌\n酒精尼古丁重度依赖中欢迎互推\n-\n搞一点二次元主坑全职/粥/弹丸/…\n玩很多游戏fps除外 联机游戏都可以找我玩\n搞oc 会画画写诗写故事 目前在研究宗教学自创神中\n喜欢的作家是帕拉尼克和\n-\n如果想说话可以直接给我弹语音。我不爱打字。\n爱你们。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1289,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "快200fo了更新一下置顶🔝\nArai/Kilo/东隅 直fo必回\nENTP 生理女心理女\nADHD/双相/重焦重抑/od/烟酒/自伤❌\n已成年📍Singapore\n爱人asexsual本人pansexsual 我们一体\n研究一些犯罪心理学精神诊断学\n-\n消息可能不会及时回复看到想回就回\n睡眠障碍持续骚扰中od只是为了安定🥺❌ https://t.co/tGfGUBYYQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 182,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "ENTP｜keep honored\n称呼随意什麼都行 Arai/kilo\n｜生理女心理女^欢迎聊天^互關大歡迎｜\n-\n双手合十的时候，第一个听到祈祷的人是自己。",
+        "id": "1860377535215013888",
+        "location": "Singapore",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2081818446371934245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 235,
+          "like_count": 2149,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true
+      }
+    ]
+  }
+}

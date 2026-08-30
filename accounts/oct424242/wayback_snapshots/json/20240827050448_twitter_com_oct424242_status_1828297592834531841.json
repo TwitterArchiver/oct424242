@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1828297592834531841",
+    "created_at": "2024-08-27T05:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T06:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828297592834531841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1659297861060943873",
+          "start": 3,
+          "username": "sixmonthautumn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828297592834531841",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819354672999903281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sixmonthautumn: 這裏是自介🍁\n༄\n名字:楓葉\n女 香港 08 高一 157/120\n(是微肥的沒錯…\n༄\n邊緣型人格障礙\n躁鬱症\n割手✫OD✫醫院\n༄\n這裏是我碎碎念的空間\n可以和我dm聊天\n可以隨時開sps\n（最愛可愛的女孩子了❦\n本人少社恐 但也很歡…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1828297592834531841",
+        "created_at": "2024-08-27T05:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T06:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828297592834531841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1659297861060943873",
+              "start": 3,
+              "username": "sixmonthautumn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828297592834531841",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819354672999903281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sixmonthautumn: 這裏是自介🍁\n༄\n名字:楓葉\n女 香港 08 高一 157/120\n(是微肥的沒錯…\n༄\n邊緣型人格障礙\n躁鬱症\n割手✫OD✫醫院\n༄\n這裏是我碎碎念的空間\n可以和我dm聊天\n可以隨時開sps\n（最愛可愛的女孩子了❦\n本人少社恐 但也很歡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819354666540716033"
+          ]
+        },
+        "author_id": "1659297861060943873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1819354672999903281",
+        "created_at": "2024-08-02T12:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T13:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819354672999903281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcuuoeviuv",
+              "end": 161,
+              "expanded_url": "https://twitter.com/sixmonthautumn/status/1819354672999903281/photo/1",
+              "media_key": "3_1819354666540716033",
+              "start": 138,
+              "url": "https://t.co/GCuuOeVIUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819354672999903281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 7387,
+          "like_count": 266,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "這裏是自介🍁\n༄\n名字:楓葉\n女 香港 08 高一 157/120\n(是微肥的沒錯…\n༄\n邊緣型人格障礙\n躁鬱症\n割手✫OD✫醫院\n༄\n這裏是我碎碎念的空間\n可以和我dm聊天\n可以隨時開sps\n（最愛可愛的女孩子了❦\n本人少社恐 但也很歡迎大家的\n⚠︎︎不愛看的滾⚠︎︎\n༄ https://t.co/GCuuOeVIUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈绝赞恋爱中/asd/adhd/物理/中文/eng 互fo欢迎",
+        "id": "1761821960978460672",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1817696716381938013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761954883018866688/gMrltbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 70,
+          "like_count": 215,
+          "listed_count": 0,
+          "tweet_count": 202
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T20:41:06.000Z",
+        "description": "隨風飄蕩的楓葉🍁",
+        "id": "1659297861060943873",
+        "location": "在風中飄蕩",
+        "name": "六月秋色",
+        "pinned_tweet_id": "1819354672999903281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819765095511334912/1SLqKk0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 20,
+          "like_count": 231,
+          "listed_count": 1,
+          "tweet_count": 280
+        },
+        "username": "sixmonthautumn",
+        "verified": false
+      }
+    ]
+  }
+}

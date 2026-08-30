@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1828806091117113675",
+    "created_at": "2024-08-28T14:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T15:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828806091117113675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1499461699904376834",
+          "start": 3,
+          "username": "oliviaisolive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828806091117113675",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828802498607673562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oliviaisolive: 這裏是奧莉薇婭，可以叫我奧莉或者薇婭\n04貧窮大學牲，是音遊人，但混一點cosplay元素\n\n已確診抑鬱+焦慮6年，乖巧吃藥治病中\n不自殘，所以沒血圖\n偶爾od\n\n目前努力打工維生，但還是會有吃不上飯的煩惱，所以求打賞ಥ_ಥ\n\n喜歡跟女孩子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1828806091117113675",
+        "created_at": "2024-08-28T14:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828806091117113675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1499461699904376834",
+              "start": 3,
+              "username": "oliviaisolive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828806091117113675",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828802498607673562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oliviaisolive: 這裏是奧莉薇婭，可以叫我奧莉或者薇婭\n04貧窮大學牲，是音遊人，但混一點cosplay元素\n\n已確診抑鬱+焦慮6年，乖巧吃藥治病中\n不自殘，所以沒血圖\n偶爾od\n\n目前努力打工維生，但還是會有吃不上飯的煩惱，所以求打賞ಥ_ಥ\n\n喜歡跟女孩子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828802489698627584",
+            "3_1828802489615028224",
+            "3_1828802489564712960"
+          ]
+        },
+        "author_id": "1499461699904376834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1828802498607673562",
+        "created_at": "2024-08-28T14:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828802498607673562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7segvyvyg",
+              "end": 176,
+              "expanded_url": "https://twitter.com/oliviaisolive/status/1828802498607673562/photo/1",
+              "media_key": "3_1828802489698627584",
+              "start": 153,
+              "url": "https://t.co/f7SeGVYvYG"
+            },
+            {
+              "display_url": "pic.x.com/f7segvyvyg",
+              "end": 176,
+              "expanded_url": "https://twitter.com/oliviaisolive/status/1828802498607673562/photo/1",
+              "media_key": "3_1828802489615028224",
+              "start": 153,
+              "url": "https://t.co/f7SeGVYvYG"
+            },
+            {
+              "display_url": "pic.x.com/f7segvyvyg",
+              "end": 176,
+              "expanded_url": "https://twitter.com/oliviaisolive/status/1828802498607673562/photo/1",
+              "media_key": "3_1828802489564712960",
+              "start": 153,
+              "url": "https://t.co/f7SeGVYvYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828802498607673562",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "這裏是奧莉薇婭，可以叫我奧莉或者薇婭\n04貧窮大學牲，是音遊人，但混一點cosplay元素\n\n已確診抑鬱+焦慮6年，乖巧吃藥治病中\n不自殘，所以沒血圖\n偶爾od\n\n目前努力打工維生，但還是會有吃不上飯的煩惱，所以求打賞ಥ_ಥ\n\n喜歡跟女孩子玩。會特意查成分，同成份會回跟\n\n三次元朋友勿相認，問就是我盜圖 https://t.co/f7SeGVYvYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈⚧️伪装成跨男娘的agender|泛浪漫无性恋，恋爱中❤|神经多样性(asd/adhd/抑郁/焦虑/疑似双相混合Ⅱ型？)|物理系cosmology|中文/eng|oc人|哥特|医疗系|欢迎互fo和小窗",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 73,
+          "like_count": 235,
+          "listed_count": 0,
+          "tweet_count": 229
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T19:08:36.000Z",
+        "description": "病み垢｜04｜在搞笑和搞事業之間選擇了搞陰鬱｜Lesbian｜網黃勿擾",
+        "id": "1499461699904376834",
+        "name": "橄欖樹上的奧莉薇婭",
+        "pinned_tweet_id": "1828802498607673562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794755562846220288/AxldaX8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 320,
+          "like_count": 13575,
+          "listed_count": 0,
+          "tweet_count": 1893
+        },
+        "username": "oliviaisolive",
+        "verified": false
+      }
+    ]
+  }
+}

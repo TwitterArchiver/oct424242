@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2083886358981218677",
+    "created_at": "2026-08-02T12:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083886358981218677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "すずめ"
+        },
+        {
+          "end": 115,
+          "start": 107,
+          "tag": "sparrow"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "ちゅん活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1363125320044306432",
+          "start": 3,
+          "username": "chunchu0803"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/kK5",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/kK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083886358981218677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083543370849530071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chunchu0803: 昨日の砂浴びの動画バージョンです。\n雑音や話し声が入ってるので無音にしてます。\n\n砂浴び、絶対楽しいよね❣️\n猛スピードで何度も画面を横切る２羽のバトルにも注目です🧐\n\n#すずめ #sparrow \n#ちゅん活 https://t.co/kK5…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79600,
+        "height": 720,
+        "media_key": "13_2083542034175213568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083542034175213568/img/nRtfnxnUD5avQ3xw.jpg",
+        "public_metrics": {
+          "view_count": 2374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083542034175213568/vid/avc1/480x270/DJ4_8PymUEsINW9W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083542034175213568/vid/avc1/640x360/a7quyVkyA6j3GZm5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083542034175213568/vid/avc1/1280x720/jWnCf5JkU_fwaaBI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083542034175213568/pl/MoWzUWM7R34UyRWl.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2083886358981218677",
+        "created_at": "2026-08-02T12:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083886358981218677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "すずめ"
+            },
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "sparrow"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "ちゅん活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1363125320044306432",
+              "start": 3,
+              "username": "chunchu0803"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/kK5",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/kK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083886358981218677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083543370849530071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chunchu0803: 昨日の砂浴びの動画バージョンです。\n雑音や話し声が入ってるので無音にしてます。\n\n砂浴び、絶対楽しいよね❣️\n猛スピードで何度も画面を横切る２羽のバトルにも注目です🧐\n\n#すずめ #sparrow \n#ちゅん活 https://t.co/kK5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083542034175213568"
+          ]
+        },
+        "author_id": "1363125320044306432",
+        "conversation_id": "2083543370849530071",
+        "created_at": "2026-08-01T13:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083543370849530071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "すずめ"
+            },
+            {
+              "end": 98,
+              "start": 90,
+              "tag": "sparrow"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "ちゅん活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK5WQiZ0r2",
+              "end": 129,
+              "expanded_url": "https://x.com/chunchu0803/status/2083543370849530071/video/1",
+              "media_key": "13_2083542034175213568",
+              "start": 106,
+              "url": "https://t.co/kK5WQiZ0r2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083543370849530071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 5287,
+          "like_count": 450,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "昨日の砂浴びの動画バージョンです。\n雑音や話し声が入ってるので無音にしてます。\n\n砂浴び、絶対楽しいよね❣️\n猛スピードで何度も画面を横切る２羽のバトルにも注目です🧐\n\n#すずめ #sparrow \n#ちゅん活 https://t.co/kK5WQiZ0r2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 186,
+          "like_count": 2538,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1467
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T13:56:32.000Z",
+        "description": "特別展「鳥」公式トリバサダー（国立科学博物館・名古屋市科学館・大阪市立自然史博物館）\n７年前にすずめに目覚めた、すずめ大好き人間です。すずめ語が理解できるほどのすずめの達人になれたらなあ・・・\nすずめ撮影と美術館巡りが趣味。アート作品の中にすずめを見つけた時は、テンションがマックスです！",
+        "id": "1363125320044306432",
+        "name": "ちゅんちゅん",
+        "pinned_tweet_id": "1903094472264782077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363145667405701127/h-arIaKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5582,
+          "following_count": 355,
+          "like_count": 0,
+          "listed_count": 61,
+          "media_count": 1353,
+          "tweet_count": 8289
+        },
+        "url": "",
+        "username": "chunchu0803",
+        "verified": true
+      }
+    ]
+  }
+}

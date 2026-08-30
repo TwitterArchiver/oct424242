@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2086889515919266006",
+    "created_at": "2026-08-11T02:02:27.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086996635322585233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714851742301454336",
+          "start": 0,
+          "username": "misaki_takako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086996635322585233",
+    "in_reply_to_user_id": "1714851742301454336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086889515919266006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaki_takako 欢迎回来！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17600,
+        "height": 1280,
+        "media_key": "13_2086889463133982720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086889463133982720/img/o41S1BI0wttw2BnT.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086889463133982720/vid/avc1/320x568/tqhNhrk7r4NKI4gc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086889463133982720/vid/avc1/480x852/nBmNe0dNWgiq20QB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086889463133982720/vid/avc1/720x1280/7GlhbOI2a9X8HaHi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086889463133982720/pl/k2qZH9cZDjB75JCp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2086889515919266006",
+        "created_at": "2026-08-11T02:02:27.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086996635322585233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714851742301454336",
+              "start": 0,
+              "username": "misaki_takako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086996635322585233",
+        "in_reply_to_user_id": "1714851742301454336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086889515919266006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki_takako 欢迎回来！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086889463133982720"
+          ]
+        },
+        "author_id": "1714851742301454336",
+        "conversation_id": "2086889515919266006",
+        "created_at": "2026-08-10T18:56:47.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086889515919266006"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "NeverFeelingSad"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "超天糖p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwoM15Abjd",
+              "end": 109,
+              "expanded_url": "https://x.com/misaki_takako/status/2086889515919266006/video/1",
+              "media_key": "13_2086889463133982720",
+              "start": 86,
+              "url": "https://t.co/jwoM15Abjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086889515919266006",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086889463133982720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#NeverFeelingSad\n 🍃谁知道这首歌在哪里可以听✝️ #超天糖p I smoke one joint every morning, one everyday https://t.co/jwoM15Abjd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "is_identity_verified": false,
+        "location": "🛸",
+        "most_recent_tweet_id": "2086996635322585233",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761821960978460672/1777431936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 186,
+          "like_count": 2603,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-19T03:52:21.000Z",
+        "description": "🇬🇧学牲｜enby｜od｜自伤｜社恐有时候不知道怎么聊天｜可以叫我Takako卡扣 | lie, deceive, suffer",
+        "id": "1714851742301454336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086893674974372121",
+        "name": "小兔颈鳏和小熊剝氨",
+        "pinned_tweet_id": "2086889515919266006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714851742301454336/1706571380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936247593316610049/2dYzji8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 289,
+          "like_count": 2349,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1960
+        },
+        "url": "",
+        "username": "misaki_takako",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

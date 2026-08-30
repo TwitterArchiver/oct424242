@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084030291195113472"
+      ],
+      "media_source_tweet_id": [
+        "2085501174720209019"
+      ]
+    },
+    "author_id": "1761821960978460672",
+    "conversation_id": "2085723277633491287",
+    "created_at": "2026-08-07T13:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085723277633491287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1296243212454187008",
+          "start": 3,
+          "username": "OOCMesozoicLife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGsElZEVVv",
+          "end": 44,
+          "expanded_url": "https://x.com/OOCMesozoicLife/status/2085501174720209019/video/1",
+          "media_key": "13_2084030291195113472",
+          "start": 21,
+          "url": "https://t.co/OGsElZEVVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085723277633491287",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2089
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085501174720209019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OOCMesozoicLife: https://t.co/OGsElZEVVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1277,
+        "height": 540,
+        "media_key": "13_2084030291195113472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084030291195113472/img/-N4_QnJDMXfe_VPh.jpg",
+        "public_metrics": {
+          "view_count": 64694
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084030291195113472/vid/avc1/320x360/LK2woiE48x4FSXVp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084030291195113472/vid/avc1/480x540/xZ6qwuyYki9Yncgi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084030291195113472/pl/NPb-9IMrNhFzLP0i.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084030291195113472"
+          ]
+        },
+        "author_id": "1296243212454187008",
+        "conversation_id": "2085501174720209019",
+        "created_at": "2026-08-06T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085501174720209019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGsElZEVVv",
+              "end": 23,
+              "expanded_url": "https://x.com/OOCMesozoicLife/status/2085501174720209019/video/1",
+              "media_key": "13_2084030291195113472",
+              "start": 0,
+              "url": "https://t.co/OGsElZEVVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085501174720209019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3224,
+          "impression_count": 298576,
+          "like_count": 20295,
+          "quote_count": 55,
+          "reply_count": 19,
+          "retweet_count": 2089
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OGsElZEVVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084030291195113472"
+          ],
+          "media_source_tweet_id": [
+            "2085501174720209019"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "conversation_id": "2085723277633491287",
+        "created_at": "2026-08-07T13:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085723277633491287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1296243212454187008",
+              "start": 3,
+              "username": "OOCMesozoicLife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGsElZEVVv",
+              "end": 44,
+              "expanded_url": "https://x.com/OOCMesozoicLife/status/2085501174720209019/video/1",
+              "media_key": "13_2084030291195113472",
+              "start": 21,
+              "url": "https://t.co/OGsElZEVVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085723277633491287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2089
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085501174720209019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OOCMesozoicLife: https://t.co/OGsElZEVVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 181,
+          "like_count": 2571,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-20T00:31:14.000Z",
+        "description": "Posting Dinosaurs with no context\n\n- Submit Images Here: https://t.co/ctfO2mPspK\n\n- Ran By @Calder_Dinosaur\n\n- Will NOT accept or do any promotions",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Calder_Dinosaur"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "forms.gle/9V8HmbZks7FcTN…",
+                "end": 80,
+                "expanded_url": "https://forms.gle/9V8HmbZks7FcTNP4A",
+                "start": 57,
+                "url": "https://t.co/ctfO2mPspK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Dinosaur",
+                "end": 23,
+                "expanded_url": "https://en.wikipedia.org/wiki/Dinosaur",
+                "start": 0,
+                "url": "https://t.co/0qtB38cQND"
+              }
+            ]
+          }
+        },
+        "id": "1296243212454187008",
+        "location": "Isla Nublar",
+        "name": "Out of Context Dinosaurs",
+        "pinned_tweet_id": "1797765210733936673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004629468296404992/QQeZgd5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23742,
+          "following_count": 173,
+          "like_count": 3816,
+          "listed_count": 47,
+          "media_count": 2295,
+          "tweet_count": 5119
+        },
+        "url": "https://t.co/0qtB38cQND",
+        "username": "OOCMesozoicLife",
+        "verified": false
+      }
+    ]
+  }
+}

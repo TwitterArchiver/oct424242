@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2086886374855344556",
+    "created_at": "2026-08-11T02:04:01.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086997030522507321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714851742301454336",
+          "start": 0,
+          "username": "misaki_takako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086997030522507321",
+    "in_reply_to_user_id": "1714851742301454336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086886374855344556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaki_takako 严肃学习"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086886365808222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYcF8ia4AAYJUm.jpg",
+        "width": 1251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2086886374855344556",
+        "created_at": "2026-08-11T02:04:01.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086997030522507321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714851742301454336",
+              "start": 0,
+              "username": "misaki_takako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086997030522507321",
+        "in_reply_to_user_id": "1714851742301454336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086886374855344556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaki_takako 严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086886365808222208"
+          ]
+        },
+        "author_id": "1714851742301454336",
+        "conversation_id": "2086886374855344556",
+        "created_at": "2026-08-10T18:44:18.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086886374855344556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "加巴喷丁滥用的痴呆症风险"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHdVRe08a2",
+              "end": 168,
+              "expanded_url": "https://x.com/misaki_takako/status/2086886374855344556/photo/1",
+              "media_key": "3_2086886365808222208",
+              "start": 145,
+              "url": "https://t.co/kHdVRe08a2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086886374855344556",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086886365808222208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#加巴喷丁滥用的痴呆症风险 该荟萃分析纳入5项共32万余人观察性研究，整体显示服用加巴喷丁者痴呆风险提升28%，结果有统计学意义，但研究间差异极大。高质量研究时该关联不再成立，年轻人风险高但无统计学意义。本文整体证据可信度低，无法确证药物与痴呆的因果关系😋我每天美美吃上五粒，要变撒子了～ https://t.co/kHdVRe08a2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "is_identity_verified": false,
+        "location": "🛸",
+        "most_recent_tweet_id": "2086997030522507321",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761821960978460672/1777431936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 186,
+          "like_count": 2605,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-19T03:52:21.000Z",
+        "description": "🇬🇧学牲｜enby｜od｜自伤｜社恐有时候不知道怎么聊天｜可以叫我Takako卡扣 | lie, deceive, suffer",
+        "id": "1714851742301454336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086893674974372121",
+        "name": "小兔颈鳏和小熊剝氨",
+        "pinned_tweet_id": "2086889515919266006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714851742301454336/1706571380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936247593316610049/2dYzji8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 289,
+          "like_count": 2349,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 1960
+        },
+        "url": "",
+        "username": "misaki_takako",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

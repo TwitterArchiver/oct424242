@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2081838580482392337",
+    "created_at": "2026-07-28T01:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081915935204782180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515562361070960646",
+          "start": 0,
+          "username": "Minastear1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081915935204782180",
+    "in_reply_to_user_id": "1515562361070960646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081839370894790829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear1 抱抱你，希望你獲得長久的幸福⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2081838580482392337",
+        "created_at": "2026-07-28T01:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081915935204782180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515562361070960646",
+              "start": 0,
+              "username": "Minastear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081915935204782180",
+        "in_reply_to_user_id": "1515562361070960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081839370894790829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear1 抱抱你，希望你獲得長久的幸福⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515562361070960646",
+        "conversation_id": "2081838580482392337",
+        "created_at": "2026-07-27T20:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081839370894790829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081839370894790829",
+        "in_reply_to_user_id": "1515562361070960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081838580482392337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过我发现每次使用1161在药效高峰过去之后都会陷入低落，这就是和恶魔的交易吧…我并没有平白无故获得幸福感，我只是提前预支了一些而已。通过药物短暂触摸的爱与希望都是要还回去的，物质使用是有代价的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD eng/中文\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 174,
+          "like_count": 2461,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱oder︱提供小零食出售业务︱第二世@Minastear030 等待复活中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 223,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false
+      }
+    ]
+  }
+}

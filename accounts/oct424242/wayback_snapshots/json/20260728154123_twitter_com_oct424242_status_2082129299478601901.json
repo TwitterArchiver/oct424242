@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2082128268241850727",
+    "created_at": "2026-07-28T15:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082129299478601901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082129299478601901",
+    "in_reply_to_user_id": "1761821960978460672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082128962877325587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回微信也有别的方法的。各种，都好。说我想要oc制品也好。怎么样都好。我过了你想过的人生。这下好了。我不应该去死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2082128268241850727",
+        "created_at": "2026-07-28T15:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082129299478601901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082129299478601901",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128962877325587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回微信也有别的方法的。各种，都好。说我想要oc制品也好。怎么样都好。我过了你想过的人生。这下好了。我不应该去死了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2082128268241850727",
+        "created_at": "2026-07-28T15:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082128962877325587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082128962877325587",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128268241850727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不应该吃掉巧克力的。但是当时我的精神状态很差，很饿。如果不吃掉巧克力就很难坚持过那个冬天。巧克力很美味。巧克力要被吃掉才算是真正被使用了获得了价值。可我是一个害怕失去的人。我一般不吃巧克力。还有很多很多的后悔。为什么我不回来见她一面。为什么最后几天不去，想办法和她联络。即使没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD eng/中文\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "🛸",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 173,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1427
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1836124268595417217",
+    "created_at": "2024-09-18T19:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T20:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836485079490580929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580035240810393600",
+          "start": 0,
+          "username": "meimei1091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836485079490580929",
+    "in_reply_to_user_id": "1580035240810393600",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836449793431998965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meimei1091 🥹🥹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1836449793431998965].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1836449793431998965",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1836449793431998965"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1836124268595417217",
+        "created_at": "2024-09-18T19:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T20:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836485079490580929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580035240810393600",
+              "start": 0,
+              "username": "meimei1091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836485079490580929",
+        "in_reply_to_user_id": "1580035240810393600",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836449793431998965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meimei1091 🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️伪装成跨男娘的agender|泛浪漫无性恋，恋爱中❤|神经多样性(asd/adhd/抑郁/焦虑/疑似双相混合Ⅱ型？)|物理系cosmology|中文/eng|oc人|哥特|医疗系|欢迎互fo和小窗",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 83,
+          "like_count": 314,
+          "listed_count": 0,
+          "tweet_count": 275
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T03:18:59.000Z",
+        "description": "中文/日本語｜INFP｜24｜避難垢。悪口ある。歴史系夢女子や夢ノンバイナリー？腐要素もあり、千幡同担拒否、ほかの拒否🈚️。フォローリクエストの受付は歴史界隈オンリー。",
+        "id": "1580035240810393600",
+        "location": "醫王山",
+        "name": "三尺青锋弑了多少不归人",
+        "pinned_tweet_id": "1774743033692697030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825665837086482432/0l6Qcy03_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 61,
+          "like_count": 552,
+          "listed_count": 0,
+          "tweet_count": 515
+        },
+        "username": "meimei1091",
+        "verified": false
+      }
+    ]
+  }
+}

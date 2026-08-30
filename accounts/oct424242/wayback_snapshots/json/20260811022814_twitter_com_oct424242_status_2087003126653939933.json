@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "2086988333503185095",
+    "created_at": "2026-08-11T02:28:14.000Z",
+    "display_text_range": [
+      10,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087003126653939933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087003126653939933",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086998766628831342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@_tom0e_x Then I think it is nearly impossible to even send money to them…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2086988333503185095",
+        "created_at": "2026-08-11T02:28:14.000Z",
+        "display_text_range": [
+          10,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087003126653939933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087003126653939933",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086998766628831342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@_tom0e_x Then I think it is nearly impossible to even send money to them…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534344658033180672",
+        "conversation_id": "2086988333503185095",
+        "created_at": "2026-08-11T02:10:55.000Z",
+        "display_text_range": [
+          11,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086998766628831342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086998766628831342",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086995303530430609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@oct424242 no ): this friend lives in china i wish they were more responsible with money.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "enby they/them AuDHD en|cn|jp|de\n核，戲劇，藥物|「知識」，知識論，(w)holism|我們決定過一個酒神節。\nI am nothing in my soul if not obsessive.\ncw：本帳號包含令人不適的精神障礙。\ndm friendly ｜裡垢:@kername",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "kername"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "is_identity_verified": false,
+        "location": "🛸",
+        "most_recent_tweet_id": "2087003126653939933",
+        "name": "kernarme",
+        "pinned_tweet_id": "2081050190472183865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761821960978460672/1777431936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049324187622453248/7zEnS3i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 186,
+          "like_count": 2606,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "oct424242",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "is_identity_verified": false,
+        "location": "Somewhere In Nyc",
+        "most_recent_tweet_id": "2086998766628831342",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2082287037265146250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534344658033180672/1783093476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084323330220253184/0V21pyMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 183,
+          "like_count": 61405,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

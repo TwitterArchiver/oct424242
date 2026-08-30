@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1761821960978460672",
+    "conversation_id": "1835181586553487744",
+    "created_at": "2024-09-15T05:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T06:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835182825018212621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1444337550546456582",
+          "start": 0,
+          "username": "SinuUx_xU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835182825018212621",
+    "in_reply_to_user_id": "1444337550546456582",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835181586553487744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@SinuUx_xU 啊啊不要理他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "1835181586553487744",
+        "created_at": "2024-09-15T05:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T06:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835182825018212621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1444337550546456582",
+              "start": 0,
+              "username": "SinuUx_xU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835182825018212621",
+        "in_reply_to_user_id": "1444337550546456582",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835181586553487744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@SinuUx_xU 啊啊不要理他们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835181582589763584"
+          ]
+        },
+        "author_id": "1444337550546456582",
+        "conversation_id": "1835181586553487744",
+        "created_at": "2024-09-15T04:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T05:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835181586553487744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6oidfhqnm",
+              "end": 44,
+              "expanded_url": "https://twitter.com/SinuUx_xU/status/1835181586553487744/photo/1",
+              "media_key": "3_1835181582589763584",
+              "start": 21,
+              "url": "https://t.co/W6oiDfHQNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835181586553487744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "真服了 对别人小红书占有欲能不能别这么强 https://t.co/W6oiDfHQNm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️伪装成跨男娘的agender|泛浪漫无性恋，恋爱中❤|神经多样性(asd/adhd/抑郁/焦虑/疑似双相混合Ⅱ型？)|物理系cosmology|中文/eng|oc人|哥特|医疗系|欢迎互fo和小窗",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 82,
+          "like_count": 300,
+          "listed_count": 0,
+          "tweet_count": 260
+        },
+        "username": "oct424242",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T16:24:43.000Z",
+        "description": "sinu 20↑ 和男友猫猫同居 自伤od日留女 白兔劳拉hyplon重度依赖 打不打警告看心情 取关顺手拉黑 想和妹宝私联 日语垢@sinucyann",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "sinucyann"
+              }
+            ]
+          }
+        },
+        "id": "1444337550546456582",
+        "location": "求od萌妹回fo私联",
+        "name": "sinu4",
+        "pinned_tweet_id": "1813950412602683772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822991631232155648/y83LTKVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 71,
+          "like_count": 926,
+          "listed_count": 0,
+          "tweet_count": 1106
+        },
+        "username": "SinuUx_xU",
+        "verified": false
+      }
+    ]
+  }
+}
